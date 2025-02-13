@@ -27,7 +27,7 @@
     "champ": "Ligue Europa Conference",
     "heure": "17H45",
     "date": "13/02/2025",
-    "pro": "Total: (+2.5)"
+    "pro": "V2"
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/V%C3%ADkingur_Reykjavik_%28logo%29.svg/1200px-V%C3%ADkingur_Reykjavik_%28logo%29.svg.png",
@@ -37,7 +37,7 @@
     "champ": "Ligue Europa Conference",
     "heure": "17H45",
     "date": "13/02/2025",
-    "pro": "V2"
+    "pro": "Total: (+2.5)"
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1200px-Logo_AZ_Alkmaar.svg.png",
@@ -57,7 +57,7 @@
     "champ": "Ligue Europa",
     "heure": "20H00",
     "date": "13/02/2025",
-    "pro": "V1"
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
@@ -107,7 +107,7 @@
     "champ": "Ligue Europa",
     "heure": "17H45",
     "date": "13/02/2025",
-    "pro": "Total: (+2.5)"
+    "pro": "V1"
   },
     {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Royale_Union_Saint-Gilloise_logo.svg/1200px-Royale_Union_Saint-Gilloise_logo.svg.png",
@@ -117,6 +117,6 @@
     "champ": "Ligue Europa",
     "heure": "17H45",
     "date": "13/02/2025",
-    "pro": "Total: (+2.5)"
+    "pro": "Total 2: (+1.5)"
   }
 ]
