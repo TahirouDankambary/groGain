@@ -1,103 +1,84 @@
 
 [
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/2560px-Flag_of_Belgium_%28civil%29.svg.png",
-    "name1": "Belgique",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_Ukraine_%281917%E2%80%931921%29.svg/2560px-Flag_of_Ukraine_%281917%E2%80%931921%29.svg.png",
-    "name2": "Ukraine",
-    "champ": "Ligue des Nations",
-    "heure": "19H45",
-    "date": "23/03/2025",
-    "pro": "Total: (+2.5)"
-  },
+   
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png",
-    "name1": "Allemagne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/2560px-Flag_of_Italy.svg.png",
-    "name2": "Italie",
-    "champ": "Ligue des Nations",
-    "heure": "19H45",
-    "date": "23/03/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_MVV_Maastricht.svg/1200px-Logo_MVV_Maastricht.svg.png",
+    "name1": "MVV Maastricht",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/FC_Emmen_logo.svg/1200px-FC_Emmen_logo.svg.png",
+    "name2": "Emmen",
+    "champ": "Pays-Bas. Ereste Divisie",
+    "heure": "19H00",
+    "date": "28/03/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/1200px-Flag_of_Ireland.svg.png",
-    "name1": "Irlande",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1200px-Flag_of_Bulgaria.svg.png",
-    "name2": "Bulgarie",
-    "champ": "Ligue des Nations",
-    "heure": "19H45",
-    "date": "23/03/2025",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStxzoeiAAJbuVoVAaJ3Q0Qcyqwu2Rg1c3_HA&s",
+    "name1": "SC Telstar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/SBV_Vitesse_%28logo%29.svg/1200px-SBV_Vitesse_%28logo%29.svg.png",
+    "name2": "Vitesse",
+    "champ": "Pays-Bas. Ereste Divisie",
+    "heure": "19H00",
+    "date": "28/03/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png",
-    "name1": "Espagne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png",
-    "name2": "Pays-Bas",
-    "champ": "Ligue des Nations",
-    "heure": "19H45",
-    "date": "23/03/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3hJtOgc1NpzZFdDWDvjQcfAHsXi24rFCRAQ&s",
+    "name1": "Eindhoven",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Helmond_Sport_logo.svg/1200px-Helmond_Sport_logo.svg.png",
+    "name2": "Helmond Sport",
+    "champ": "Pays-Bas. Ereste Divisie",
+    "heure": "19H00",
+    "date": "28/03/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Excelsior_Rotterdam_logo_2021.svg/1200px-Excelsior_Rotterdam_logo_2021.svg.png",
+    "name1": "Excelsior",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
+    "name2": "Utrecht ll",
+    "champ": "Pays-Bas. Ereste Divisie",
+    "heure": "19H00",
+    "date": "28/03/2025",
+    "pro": "V1 Et TP(2.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FC_Metz_2021_Logo.svg/1432px-FC_Metz_2021_Logo.svg.png",
+    "name1": "Metz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Logo_ESTAC.jpg/1200px-Logo_ESTAC.jpg",
+    "name2": "Troyes AC",
+    "champ": "France. Ligue 2",
+    "heure": "19H00",
+    "date": "28/03/2025",
+    "pro": "Total 2: (+0.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fa/Logo_Pau_FC_-_2022.svg",
+    "name1": "Pau",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_FC_Annecy_-_2022.svg/1200px-Logo_FC_Annecy_-_2022.svg.png",
+    "name2": "Annecy",
+    "champ": "France. Ligue 2",
+    "heure": "19H00",
+    "date": "28/03/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo_Red_Star_FC_2014.svg/langfr-250px-Logo_Red_Star_FC_2014.svg.png",
+    "name1": "Red Star Saint-Ouen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_Rodez_AF_2017.svg/langfr-250px-Logo_Rodez_AF_2017.svg.png",
+    "name2": "Rodez Aveyron",
+    "champ": "France. Ligue 2",
+    "heure": "19H00",
+    "date": "28/03/2025",
     "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/2560px-Flag_of_Georgia.svg.png",
-    "name1": "Géorgie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/1200px-Flag_of_Armenia.svg.png",
-    "name2": "Arménie",
-    "champ": "Ligue des Nations",
-    "heure": "14H00",
-    "date": "23/03/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr9qVOmslCfirtstEu0CcBfZf3jSRqs4Tx-w&s",
+    "name1": "Cambuur",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Logo_De_Graafschap_2024.svg/1200px-Logo_De_Graafschap_2024.svg.png",
+    "name2": "De Graafschap",
+    "champ": "Pays-Bas. Ereste Divisie",
+    "heure": "19H00",
+    "date": "28/03/2025",
     "pro": "V1 Et TP(1.5) - OUI"
-  },  
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/2560px-Flag_of_Hungary.svg.png",
-    "name1": "Hongrie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/2560px-Flag_of_Turkey.svg.png",
-    "name2": "Turquie",
-    "champ": "Ligue des Nations",
-    "heure": "17H00",
-    "date": "23/03/2025",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/2560px-Flag_of_Iceland.svg.png",
-    "name1": "Islande",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1_PKe7l6O5r7rJvnSSwMk-SvLHuJMVqwfcQ&s",
-    "name2": "Kosovo",
-    "champ": "Ligue des Nations",
-    "heure": "17H00",
-    "date": "23/03/2025",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/2560px-Flag_of_Serbia.svg.png",
-    "name1": "Serbie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2560px-Flag_of_Austria.svg.png",
-    "name2": "Autriche",
-    "champ": "Ligue des Nations",
-    "heure": "17H00",
-    "date": "23/03/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/2560px-Flag_of_Slovenia.svg.png",
-    "name1": "Slovénie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/1200px-Flag_of_Slovakia.svg.png",
-    "name2": "Slovaquie",
-    "champ": "Ligue des Nations",
-    "heure": "17H00",
-    "date": "23/03/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/800px-Flag_of_Scotland.svg.png",
-    "name1": "Écosse",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/2560px-Flag_of_Greece.svg.png",
-    "name2": "Grèce",
-    "champ": "Ligue des Nations",
-    "heure": "17H00",
-    "date": "23/03/2025",
-    "pro": "Deux équipes vont marquer: OUI"
   }
 ]
