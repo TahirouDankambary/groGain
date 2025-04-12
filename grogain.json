@@ -1,103 +1,103 @@
 
  [
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/VfL_Bochum_logo.svg/1945px-VfL_Bochum_logo.svg.png",
+    "name1": "Bochum",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_FC_Augsburg_2024.svg/1200px-Logo_FC_Augsburg_2024.svg.png",
+    "name2": "Augsbourg",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "12/04/2025",
+    "pro": "12"
+  },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/it/d/d4/NK_Celje_Logo.jpeg",
-    "name1": "Celje",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/1200px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
-    "name2": "Fiorentina",
-    "champ": "Ligue Conférence",
-    "heure": "19H00",
-    "date": "10/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/2048px-Holstein_Kiel_Logo.svg.png",
+    "name1": "Holstein Kiel",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/FC_St._Pauli_%28logo%29.svg/800px-FC_St._Pauli_%28logo%29.svg.png",
+    "name2": "St.Pauli",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "12/04/2025",
     "pro": "V2"
   },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaYVGagGLyORC7NzuykbmKkHjM7iM9igZ6g&s",
-    "name1": "Djurgardens",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/SK_Rapid_Wien_Logo.svg/1200px-SK_Rapid_Wien_Logo.svg.png",
-    "name2": "Rapid Vienne",
-    "champ": "Ligue Conférence",
-    "heure": "19H00",
-    "date": "10/04/2025",
-    "pro": "Total: (+2)"
-  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/2560px-Brann_logo.svg.png",
-    "name1": "Brann",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/Str%C3%B8msgodset_IF_%28logo%29.svg/1200px-Str%C3%B8msgodset_IF_%28logo%29.svg.png",
-    "name2": "Stromsgodset",
-    "champ": "Norvège. Eliteserien",
-    "heure": "17H00",
-    "date": "10/04/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Logo_Viking_FK.svg/1200px-Logo_Viking_FK.svg.png",
-    "name1": "Viking",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Kristiansund_BK_logo.svg/1200px-Kristiansund_BK_logo.svg.png",
-    "name2": "Kristiansund BK",
-    "champ": "Norvège. Eliteserien",
-    "heure": "17H00",
-    "date": "10/04/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rvuE_610oqIIiHaDvgrYwRQ7Q7DuozaCGg&s",
-    "name1": "Bodo-Glimt",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLb0oaU6S5o94UD83nt_NwE6OhTvLoMwQmmw&s",
-    "name2": "Lazio",
-    "champ": "Ligue Europa",
-    "heure": "16H45",
-    "date": "10/04/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },  
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/1200px-Olympique_Lyonnais_logo.svg.png",
-    "name1": "Lyon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/800px-Logo_Manchester_United_FC.svg.png",
-    "name2": "Man United",
-    "champ": "Ligue Europa",
-    "heure": "19H00",
-    "date": "10/04/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Rangers_FC_-_2020.svg/1200px-Logo_Rangers_FC_-_2020.svg.png",
-    "name1": "Rangers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/1200px-Club_Athletic_Bilbao_logo.svg.png",
-    "name2": "Athletic Bilbao",
-    "champ": "Ligue Europa",
-    "heure": "19H00",
-    "date": "10/04/2025",
-    "pro": "Total: (+2.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
-    "name1": "Tottenham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/langfr-250px-Logo_Eintracht_Francfort.svg.png",
-    "name2": "Frankfurt",
-    "champ": "Ligue Europa",
-    "heure": "19H00",
-    "date": "10/04/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_FMUGpzuApmrkvEaav_80WLJoAY8E5-l5mg&s",
-    "name1": "Legia Varsovie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/2048px-Logo_Chelsea.svg.png",
-    "name2": "Chelsea",
-    "champ": "Ligue Conférence",
-    "heure": "16H45",
-    "date": "10/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Logo_TSG_1899_Hoffenheim_2024.svg/1200px-Logo_TSG_1899_Hoffenheim_2024.svg.png",
+    "name1": "Hoffenheim",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1AjK5mEUFzIziqv0-NDXBmKW6roGHnzFOA&s",
+    "name2": "Mayence",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "12/04/2025",
     "pro": "V2 Et TP(1.5) - OUI"
   },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/langfr-250px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name1": "Bayern Munich",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2AgTf1GLhWCLeIk-aztt5G9nyUNRYC1V-4A&s",
+    "name2": "Dortmund",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "16H30",
+    "date": "12/04/2025",
+    "pro": "V1"
+  },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
-    "name1": "Real Betis",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8gB4fUbyrKQz8IG0m7LxaoYu2HzFt1RY1A&s",
-    "name2": "Jagiellonia Bialystok",
-    "champ": "Ligue Conférence",
-    "heure": "19H00",
-    "date": "10/04/2025",
-    "pro": "V1 Et TP(2.5) - OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIxuEos54jvBwD0tfN7YElYcQLF7x7KhCPeA&s",
+    "name1": "Brighton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
+    "name2": "Leicester City",
+    "champ": "Angleterre. Premier League",
+    "heure": "14H00",
+    "date": "12/04/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },  
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_Nottingham_Forest_FC.svg/800px-Logo_Nottingham_Forest_FC.svg.png",
+    "name1": "Nottingham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/1200px-Everton_FC_logo.svg.png",
+    "name2": "Everton",
+    "champ": "Angleterre. Premier League",
+    "heure": "14H00",
+    "date": "12/04/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz6PIBNjuVgPp88X6PL5xYOOLuAx-bnpf1A&s",
+    "name1": "Southampton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_Aston_Villa.svg/1200px-Logo_Aston_Villa.svg.png",
+    "name2": "Aston Villa",
+    "champ": "Angleterre. Premier League",
+    "heure": "14H00",
+    "date": "12/04/2025",
+    "pro": "V2"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Arsenal_FC_2002.svg/langfr-250px-Logo_Arsenal_FC_2002.svg.png",
+    "name1": "Arsenal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Brentford_FC_2017.svg/1200px-Logo_Brentford_FC_2017.svg.png",
+    "name2": "Brentford",
+    "champ": "Angleterre. Premier League",
+    "heure": "16H30",
+    "date": "12/04/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/langfr-250px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name1": "Leverkusen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_1._FC_Union_Berlin_2024.svg/1200px-Logo_1._FC_Union_Berlin_2024.svg.png",
+    "name2": "Union Berlin",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "12/04/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLdYuHI87Os5qSKd8YApxOyA3K4ycwR9FoNQ&s",
+    "name1": "Borussia Monchengladbach",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/800px-SC_Freiburg_%28logo%29.svg.png",
+    "name2": "Fribourg",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "12/04/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   }
 ]
