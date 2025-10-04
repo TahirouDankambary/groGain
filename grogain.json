@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Hull_City_AFC_logo.svg/948px-Hull_City_AFC_logo.svg.png",
-    "name1": "Hull City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Preston_North_End_FC.svg/1200px-Preston_North_End_FC.svg.png",
-    "name2": "Preston North End",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "30/09/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sheffield_United_FC_logo.svg/1200px-Sheffield_United_FC_logo.svg.png",
-    "name1": "Sheffield United",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz6PIBNjuVgPp88X6PL5xYOOLuAx-bnpf1A&s",
-    "name2": "Southampton",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "30/09/2025",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Derby_County_crest.svg/1200px-Derby_County_crest.svg.png",
-    "name1": "Derby County",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Charlton_Athletic.svg/1200px-Charlton_Athletic.svg.png",
-    "name2": "Charlton Athletic",
-    "champ": "Angleterre. Championship",
-    "heure": "19H00",
-    "date": "30/09/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/Logo_Athletic_Club_1995.svg/langfr-250px-Logo_Athletic_Club_1995.svg.png",
+    "name1": "Athletic Bilbao",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1547px-RCD_Mallorca_%28logo%29.svg.png",
+    "name2": "Majorque",
+    "champ": "Espagne. LaLiga",
+    "heure": "16H30",
+    "date": "04/10/2025",
     "pro": "1X Et TP(1.5) - OUI"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Ashton_United_FC_logo.png/250px-Ashton_United_FC_logo.png",
-    "name1": "Ashton United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b6/RuncornLinnetsCrest.png",
-    "name2": "Runcorn Linnets",
-    "champ": "Coupe d'Angleterre",
-    "heure": "18H45",
-    "date": "30/09/2025",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Billericay_Town_Football_Club_Badge.png/250px-Billericay_Town_Football_Club_Badge.png",
-    "name1": "Billericay Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/28/Hednesford.png",
-    "name2": "Hednesford Town",
-    "champ": "Coupe d'Angleterre",
-    "heure": "18H45",
-    "date": "30/09/2025",
-    "pro": "2X"
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/860px-Logo_Real_Madrid.svg.png",
+    "name1": "Real Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_Villarreal_CF_2009.svg/961px-Logo_Villarreal_CF_2009.svg.png",
+    "name2": "Villarreal",
+    "champ": "Espagne. LaLiga",
+    "heure": "19H00",
+    "date": "04/10/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Birmingham_City_FC_logo.svg/847px-Birmingham_City_FC_logo.svg.png",
-    "name1": "Birmingham City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Sheffield_Wednesday_badge.svg/828px-Sheffield_Wednesday_badge.svg.png",
-    "name2": "Sheffield Wednesday",
-    "champ": "Angleterre. Championship",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
+    "name1": "Inter Milan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_US_Cremonese_2018.svg/1200px-Logo_US_Cremonese_2018.svg.png",
+    "name2": "Cremonese",
+    "champ": "Italie. Série A",
+    "heure": "16H00",
+    "date": "04/10/2025",
+    "pro": "1X Et TP(2.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_Atalanta_Bergamo.svg/1271px-Logo_Atalanta_Bergamo.svg.png",
+    "name1": "Atalanta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/1161px-Logo_Como_1907_2019.png",
+    "name2": "Como",
+    "champ": "Italie. Série A",
     "heure": "18H45",
-    "date": "30/09/2025",
+    "date": "04/10/2025",
+    "pro": "Total: (+2.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/FC_Krasnodar_logo.svg/1200px-FC_Krasnodar_logo.svg.png",
+    "name1": "Krasnodar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Akhmat_Grozny_Logo.svg/980px-Akhmat_Grozny_Logo.svg.png",
+    "name2": "Akhmat",
+    "champ": "Russie. Première Ligue",
+    "heure": "14H30",
+    "date": "04/10/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDTMsfl1pdTTuwhqmxItTkcZU4-CcNzkxKcg&s",
+    "name1": "Arsenal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_West_Ham_United_2016.svg/langfr-250px-Logo_West_Ham_United_2016.svg.png",
+    "name2": "West Ham",
+    "champ": "Angleterre. Premier League",
+    "heure": "14H00",
+    "date": "04/10/2025",
     "pro": "V1 Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Blackburn_Rovers.svg/1159px-Blackburn_Rovers.svg.png",
-    "name1": "Blackburn Rovers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Swansea_City_AFC_logo.svg/1200px-Swansea_City_AFC_logo.svg.png",
-    "name2": "Swansea City",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "30/09/2025",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1184px-Manchester_United_FC_crest.svg.png",
+    "name1": "Man United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/1200px-Logo_Sunderland.svg.png",
+    "name2": "Sunderland",
+    "champ": "Angleterre. Premier League",
+    "heure": "14H00",
+    "date": "04/10/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Bristol_City_crest.svg/1200px-Bristol_City_crest.svg.png",
-    "name1": "Bristol City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Ipswich_Town.svg/962px-Ipswich_Town.svg.png",
-    "name2": "Ipswich",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "30/09/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+    "name1": "Chelsea",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/879px-Liverpool_FC.svg.png",
+    "name2": "Liverpool",
+    "champ": "Angleterre. Premier League",
+    "heure": "16H30",
+    "date": "04/10/2025",
+    "pro": "Total: (+2.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
-    "name1": "Leicester City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_Wrexham_AFC.svg/886px-Logo_Wrexham_AFC.svg.png",
-    "name2": "Wrexham",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "30/09/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/1200px-Eintracht_Frankfurt_crest.svg.png",
+    "name1": "Frankfurt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name2": "Bayern Munich",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "16H30",
+    "date": "04/10/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/1152px-Middlesbrough_FC_crest.svg.png",
-    "name1": "Middlesbrough",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_Stoke_City_FC_-_2001.svg/1027px-Logo_Stoke_City_FC_-_2001.svg.png",
-    "name2": "Stoke City",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "30/09/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1200px-Logo_Girona_FC_-_2022.svg.png",
+    "name1": "Gérone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/918px-Logo_Valencia_CF_2019.svg.png",
+    "name2": "Valencia",
+    "champ": "Espagne. LaLiga",
+    "heure": "14H15",
+    "date": "04/10/2025",
+    "pro": "Total: (+2)"
   }
 ]
