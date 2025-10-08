@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/Logo_Athletic_Club_1995.svg/langfr-250px-Logo_Athletic_Club_1995.svg.png",
-    "name1": "Athletic Bilbao",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1547px-RCD_Mallorca_%28logo%29.svg.png",
-    "name2": "Majorque",
-    "champ": "Espagne. LaLiga",
-    "heure": "16H30",
-    "date": "04/10/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/1280px-Flag_of_Ethiopia.svg.png",
+    "name1": "Éthiopie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/2560px-Flag_of_Guinea-Bissau.svg.png",
+    "name2": "Guinea-Bissau",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "13H00",
+    "date": "08/10/2025",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/1200px-Flag_of_the_Comoros.svg.png",
+    "name1": "Archipel des Comores",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/2560px-Flag_of_Madagascar.svg.png",
+    "name2": "Madagascar",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "16H00",
+    "date": "08/10/2025",
     "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/860px-Logo_Real_Madrid.svg.png",
-    "name1": "Real Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_Villarreal_CF_2009.svg/961px-Logo_Villarreal_CF_2009.svg.png",
-    "name2": "Villarreal",
-    "champ": "Espagne. LaLiga",
-    "heure": "19H00",
-    "date": "04/10/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
-    "name1": "Inter Milan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_US_Cremonese_2018.svg/1200px-Logo_US_Cremonese_2018.svg.png",
-    "name2": "Cremonese",
-    "champ": "Italie. Série A",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/1200px-Flag_of_the_Central_African_Republic.svg.png",
+    "name1": "République Centrafricaine",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/2560px-Flag_of_Ghana.svg.png",
+    "name2": "Ghana",
+    "champ": "Qualif Coupe du Monde 2026",
     "heure": "16H00",
-    "date": "04/10/2025",
-    "pro": "1X Et TP(2.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_Atalanta_Bergamo.svg/1271px-Logo_Atalanta_Bergamo.svg.png",
-    "name1": "Atalanta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/1161px-Logo_Como_1907_2019.png",
-    "name2": "Como",
-    "champ": "Italie. Série A",
-    "heure": "18H45",
-    "date": "04/10/2025",
-    "pro": "Total: (+2.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/FC_Krasnodar_logo.svg/1200px-FC_Krasnodar_logo.svg.png",
-    "name1": "Krasnodar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Akhmat_Grozny_Logo.svg/980px-Akhmat_Grozny_Logo.svg.png",
-    "name2": "Akhmat",
-    "champ": "Russie. Première Ligue",
-    "heure": "14H30",
-    "date": "04/10/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDTMsfl1pdTTuwhqmxItTkcZU4-CcNzkxKcg&s",
-    "name1": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_West_Ham_United_2016.svg/langfr-250px-Logo_West_Ham_United_2016.svg.png",
-    "name2": "West Ham",
-    "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "04/10/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },  
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1184px-Manchester_United_FC_crest.svg.png",
-    "name1": "Man United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/1200px-Logo_Sunderland.svg.png",
-    "name2": "Sunderland",
-    "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "04/10/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name1": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/879px-Liverpool_FC.svg.png",
-    "name2": "Liverpool",
-    "champ": "Angleterre. Premier League",
-    "heure": "16H30",
-    "date": "04/10/2025",
-    "pro": "Total: (+2.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/1200px-Eintracht_Frankfurt_crest.svg.png",
-    "name1": "Frankfurt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern Munich",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "16H30",
-    "date": "04/10/2025",
+    "date": "08/10/2025",
     "pro": "V2 Et TP(1.5) - OUI"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1200px-Logo_Girona_FC_-_2022.svg.png",
-    "name1": "Gérone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/918px-Logo_Valencia_CF_2019.svg.png",
-    "name2": "Valencia",
-    "champ": "Espagne. LaLiga",
-    "heure": "14H15",
-    "date": "04/10/2025",
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/250px-Flag_of_Chad.svg.png",
+    "name1": "Tchad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/1280px-Flag_of_Mali.svg.png",
+    "name2": "Mali",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "16H00",
+    "date": "08/10/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/2389px-Flag_of_Niger.svg.png",
+    "name1": "Niger",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/640px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+    "name2": "Congo",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "19H00",
+    "date": "08/10/2025",
     "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZFBiNRWukKX42GRP9tsSmDqxzbVLnuon0BQ&s",
+    "name1": "Oman",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/1200px-Flag_of_Qatar.svg.png",
+    "name2": "Qatar",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "15H00",
+    "date": "08/10/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },  
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/langfr-250px-Flag_of_Indonesia.svg.png",
+    "name1": "Indonésie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1200px-Flag_of_Saudi_Arabia.svg.png",
+    "name2": "Arabie Saoudite",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "17H15",
+    "date": "08/10/2025",
+    "pro": "Total 1: (+0.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/2560px-Flag_of_Libya.svg.png",
+    "name1": "Libye",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1200px-Flag_of_Cape_Verde.svg.png",
+    "name2": "Cape Verde",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "13H00",
+    "date": "08/10/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/330px-Flag_of_Mauritius.svg.png",
+    "name1": "Mauritius",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/1280px-Flag_of_Cameroon.svg.png",
+    "name2": "Cameroun",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "13H00",
+    "date": "08/10/2025",
+    "pro": "V2 ET TP(2.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/2560px-Flag_of_Eswatini.svg.png",
+    "name1": "Eswatini",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/2560px-Flag_of_Angola.svg.png",
+    "name2": "Angola",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "13H00",
+    "date": "08/10/2025",
+    "pro": "2X ET TP(2.5) - OUI"
   }
 ]
