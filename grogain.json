@@ -1,103 +1,103 @@
 
 [
- {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/2560px-Flag_of_Saudi_Arabia.svg.png",
-    "name1": "Arabie Saoudite",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/2560px-Flag_of_Iraq.svg.png",
-    "name2": "Irak",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "19H30",
-    "date": "14/10/2025",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png",
-    "name1": "Algérie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/1280px-Flag_of_Uganda.svg.png",
-    "name2": "Ouganda",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "16H00",
-    "date": "14/10/2025",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/langfr-250px-Flag_of_Guinea.svg.png",
-    "name1": "Guinée",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWCfMst42ogd805skChF2kE3d-CuspBC8W-g&s",
-    "name2": "Botswana",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "16H00",
-    "date": "14/10/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/langfr-250px-Flag_of_Estonia.svg.png",
-    "name1": "Estonie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/1200px-Flag_of_Moldova.svg.png",
-    "name2": "Moldavie",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "16H00",
-    "date": "14/10/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },  
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/langfr-250px-Flag_of_Andorra.svg.png",
-    "name1": "Andorre",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1280px-Flag_of_Serbia.svg.png",
-    "name2": "Serbie",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "14/10/2025",
-    "pro": "V2 Et TP(2.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/2560px-Flag_of_Ireland.svg.png",
-    "name1": "Irlande",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/2560px-Flag_of_Armenia.svg.png",
-    "name2": "Arménie",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "14/10/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/langfr-250px-Logo_Newcastle_United_FC.svg.png",
+    "name1": "Newcastle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1792px-Logo_Athletic_Club_Bilbao.svg.png",
+    "name2": "Athletic Bilbao",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "05/11/2025",
     "pro": "Total: (+2.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_Italy_%28Pantone%2C_2006%29.svg/250px-Flag_of_Italy_%28Pantone%2C_2006%29.svg.png",
-    "name1": "Italie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1200px-Flag_of_Israel.svg.png",
-    "name2": "Israël",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "14/10/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Olympique_de_Marseille.svg/1612px-Logo_Olympique_de_Marseille.svg.png",
+    "name1": "Marseille",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Atalanta_Bergame_2024.svg/730px-Logo_Atalanta_Bergame_2024.svg.png",
+    "name2": "Atalanta",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "05/11/2025",
+    "pro": "Total: (+2.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Dinamo_Makhatchkala_Logo.png/250px-Dinamo_Makhatchkala_Logo.png",
+    "name1": "Dynamo Makhachkala",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/PFK_CSKA_Logo.svg/1500px-PFK_CSKA_Logo.svg.png",
+    "name2": "CSKA Moscou",
+    "champ": "Coupe de Russie",
+    "heure": "15H15",
+    "date": "05/11/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLn-Vqb-q_L9yinznsF7jfqUuoqY8z8SFuDQ&s",
+    "name1": "Qarabag",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+    "name2": "Chelsea",
+    "champ": "UEFA",
+    "heure": "17H45",
+    "date": "05/11/2025",
+    "pro": "V2 Et TP(2.5) - OUI"
+  },  
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_P%C3%A1fos_FC_2018.svg/1613px-Logo_P%C3%A1fos_FC_2018.svg.png",
+    "name1": "Pafos",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFUm15dUojLz9j4WwsxkCetQTxUvBuVJstg&s",
+    "name2": "Villarreal",
+    "champ": "UEFA",
+    "heure": "17H45",
+    "date": "05/11/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
+  },
+ {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
+    "name1": "Inter Milan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/FC_Kairat_%28logo%29.svg/1319px-FC_Kairat_%28logo%29.svg.png",
+    "name2": "Kairat",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "05/11/2025",
     "pro": "V1 Et TP(2.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/1200px-Flag_of_Portugal_%28official%29.svg.png",
-    "name1": "Portugal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/2560px-Flag_of_Hungary.svg.png",
-    "name2": "Hongrie",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "14/10/2025",
-    "pro": "V1 Et TP(2.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png",
-    "name1": "Turquie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/2560px-Flag_of_Georgia.svg.png",
-    "name2": "Géorgie",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "14/10/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
+    "name1": "Man City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/langfr-250px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "05/11/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/2560px-Flag_of_Qatar.svg.png",
-    "name1": "Qatar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/2560px-Flag_of_the_United_Arab_Emirates.svg.png",
-    "name2": "Émirats Arabes Unis",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "17H15",
-    "date": "14/10/2025",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Ajax_Amsterdam_1928-1991%E2%80%942025_Logo.svg/langfr-250px-Ajax_Amsterdam_1928-1991%E2%80%942025_Logo.svg.png",
+    "name1": "Ajax",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Galatasaray_Sports_Club_Logo.svg/1565px-Galatasaray_Sports_Club_Logo.svg.png",
+    "name2": "Galatasaray",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "05/11/2025",
+    "pro": "Total: (+2.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
+    "name1": "Benfica",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/2560px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name2": "Leverkusen",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "05/11/2025",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFNb9ivpfKucIcQRZymE01eZxN8pkkld6npQ&s",
+    "name1": "Club Bruges",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "05/11/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
   }
 ]
