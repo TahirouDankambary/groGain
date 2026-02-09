@@ -1,123 +1,73 @@
 
  [
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2OdSigfYp2-vJrEmRI-UujvXwkcP3ifHkpQ&s",
-    "name1": "Boulogne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_Rodez_AF_2017.svg/1280px-Logo_Rodez_AF_2017.svg.png",
-    "name2": "Rodez Aveyron",
-    "champ": "France. Ligue 2",
-    "heure": "19H00",
-    "date": "06/02/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Bunyodkor_FK_Logo.png/250px-Bunyodkor_FK_Logo.png",
+    "name1": "Bunyodkor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_HB_Koge.svg/langfr-250px-Logo_HB_Koge.svg.png",
+    "name2": "HB Kogo ",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "10H30",
+    "date": "10/02/2026",
+    "pro": "Total: (+2.5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_FC_Annecy_-_2022.svg/1280px-Logo_FC_Annecy_-_2022.svg.png",
-    "name1": "Annecy",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Logo_Grenoble_Foot_38_-_2018.svg/langfr-250px-Logo_Grenoble_Foot_38_-_2018.svg.png",
-    "name2": "Grenoble Foot",
-    "champ": "France. Ligue 2",
-    "heure": "19H00",
-    "date": "06/02/2026",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/langfr-250px-FC_Krasnodar_2016_Logo.svg.png",
-    "name1": "Krasnodar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/0b/FC_Zenit_2_star_2023_logo.png",
-    "name2": "Zénith",
-    "champ": "Russie. Coupe RPL d'Hiver",
-    "heure": "16H15",
-    "date": "06/02/2026",
-    "pro": "V2 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Charlton_Athletic.svg/1280px-Charlton_Athletic.svg.png",
-    "name1": "Charlton Athletic",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Queens_Park_Rangers_2016.svg/1280px-Logo_Queens_Park_Rangers_2016.svg.png",
-    "name2": "Queens Park Rangers",
-    "champ": "Angleterre. Championship",
-    "heure": "20H01",
-    "date": "06/02/2026",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1280px-Logo_CD_Legan%C3%A9s.svg.png",
-    "name1": "Leganés",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/Logo_Granada_CF.svg/960px-Logo_Granada_CF.svg.png",
-    "name2": "Granada",
-    "champ": "Espagne. Division 2",
-    "heure": "19H30",
-    "date": "06/02/2026",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/73/Logo_Cesena_FC_2018.svg/960px-Logo_Cesena_FC_2018.svg.png",
-    "name1": "Cesena",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm4WWo_E-qrOgfkS28Q1Nn3iXKL-4s81TtmQ&s",
-    "name2": "Delfino Pescara",
-    "champ": "Italie. Série B",
-    "heure": "19H30",
-    "date": "06/02/2026",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNjZK-5dsCukugOieXNGKzjpDEJf3d90721A&s",
-    "name1": "Leeds United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/960px-Nottingham_Forest_F.C._logo.svg.png",
-    "name2": "Forest",
-    "champ": "Angleterre. Premier League",
-    "heure": "20H00",
-    "date": "06/02/2026",
-    "pro": "1X Et TP(1.5) - OUI"
-  },  
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_1._FC_Union_Berlin_2024.svg/1280px-Logo_1._FC_Union_Berlin_2024.svg.png",
-    "name1": "Union Berlin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/1280px-Eintracht_Frankfurt_crest.svg.png",
-    "name2": "Frankfurt",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "19H30",
-    "date": "06/02/2026",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/960px-Logo_Celta_de_Vigo_2025.svg.png",
-    "name1": "Celta de Vigo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/langfr-250px-Logo_CA_Osasuna_2024.svg.png",
-    "name2": "Osasuna",
-    "champ": "Espagne. LaLiga",
-    "heure": "20H00",
-    "date": "06/02/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIzxwUygmPgJCYdUzGBqGvJC-RX4bJkhUgpA&s",
+    "name1": "Spartak Moscou",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKRtORhcRjxYcB7V-HC16t6cPkqWqoY3dsBA&s",
+    "name2": "Astana",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "13H00",
+    "date": "10/02/2026",
     "pro": "V1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/ro/thumb/a/a0/Hellas_Verona_FC.svg/250px-Hellas_Verona_FC.svg.png",
-    "name1": "Hellas Verona",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/Logo_Pisa_SC_2024.svg/960px-Logo_Pisa_SC_2024.svg.png",
-    "name2": "Pisa",
-    "champ": "Italie. Série A",
-    "heure": "19H45",
-    "date": "06/02/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Sutjeska.png/200px-Sutjeska.png",
+    "name1": "Sutjeska Niksic",
+    "photo2": "https://upload.wikimedia.org/wikipedia/de/thumb/1/18/FK_Jezero_Plav_logo.svg/250px-FK_Jezero_Plav_logo.svg.png",
+    "name2": "Jezero Plav",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "13H00",
+    "date": "10/02/2026",
+    "pro": "Total: (+2.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FC_Metz_2021_Logo.svg/960px-FC_Metz_2021_Logo.svg.png",
-    "name1": "Metz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/langfr-250px-Logo_LOSC_Lille_2018.svg.png",
-    "name2": "Lille",
-    "champ": "France. Ligue 1",
-    "heure": "19H45",
-    "date": "06/02/2026",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/uk/c/ca/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A4%D0%9A_%C2%AB%D0%9B%D0%9D%D0%97%C2%BB_%28%D0%A7%D0%B5%D1%80%D0%BA%D0%B0%D1%81%D0%B8%29.png",
+    "name1": "LNZ",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_Chakhtar_Donetsk.svg/langfr-250px-Logo_Chakhtar_Donetsk.svg.png",
+    "name2": "Chakhtar Donetsk",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "10/02/2026",
+    "pro": "V2"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsgnQCBzo_bcP1kJ7xl1sdZBg_GVkfaGr4w&s",
+    "name1": "Esbjerg FB",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/28/Zimbru-Chisinau.png/225px-Zimbru-Chisinau.png",
+    "name2": "Zimbru Chisinau",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "10/02/2026",
+    "pro": "Deux équipe vont marquer: OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/44/Polissia_Jytomyr_logo_%282024%29.svg",
+    "name1": "Polissya Jytomyr",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/6f/XHamster_logo_2016.png",
+    "name2": "Halmstards",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "10/02/2026",
+    "pro": "Total: (+2.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl8mrWlGQsjiZPEX7JqYhmplOni1r0bPw9Vw&s",
-    "name1": "NAC Breda",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Excelsior_Rotterdam_logo_2021.svg/langfr-250px-Excelsior_Rotterdam_logo_2021.svg.png",
-    "name2": "Excelsior",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "19H00",
-    "date": "06/02/2026",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/AGF_Aarhus_%28logo%29.svg/1280px-AGF_Aarhus_%28logo%29.svg.png",
+    "name1": "AGF Arthus",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUaxOSXA8q_EBLICAoVNXDpKOIAoWhYFRxRw&s",
+    "name2": "Odense",
+    "champ": "Championat du Danemark. Superliga",
+    "heure": "20H00",
+    "date": "09/02/2026",
+    "pro": "1X Et TP(1.5) - OUI"
   }
 ]
