@@ -1,73 +1,103 @@
 
  [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Bunyodkor_FK_Logo.png/250px-Bunyodkor_FK_Logo.png",
-    "name1": "Bunyodkor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_HB_Koge.svg/langfr-250px-Logo_HB_Koge.svg.png",
-    "name2": "HB Kogo ",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "10H30",
-    "date": "10/02/2026",
-    "pro": "Total: (+2.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/pt/7/7e/Oud_heverlee_leuven.png",
+    "name1": "Oud Heverlee Louvain",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1920px-Arsenal_FC.svg.png",
+    "name2": "Arsenal L.F.C.",
+    "champ": "UEFA. Femmes",
+    "heure": "17H45",
+    "date": "11/02/2026",
+    "pro": "V2 Et TP(2.5)"
   },
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIzxwUygmPgJCYdUzGBqGvJC-RX4bJkhUgpA&s",
-    "name1": "Spartak Moscou",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKRtORhcRjxYcB7V-HC16t6cPkqWqoY3dsBA&s",
-    "name2": "Astana",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "13H00",
-    "date": "10/02/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Logo_Paris_FC_2011.svg/500px-Logo_Paris_FC_2011.svg.png",
+    "name1": "Paris FC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
+    "name2": "Real Madrid",
+    "champ": "UEFA. Femmes",
+    "heure": "20H00",
+    "date": "11/02/2026",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/langfr-250px-Logo_Eintracht_Francfort.svg.png",
+    "name1": "Eintracht Frankfurt",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnv_SMKcAKCPJyoqyvdIw61To6SWwstNXB4g&s",
+    "name2": "Nordsjaelland",
+    "champ": "UEFA. Femmes",
+    "heure": "17H30",
+    "date": "11/02/2026",
+    "pro": "V2 Et TP(2.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ730IqxvO3PjC8iClYJtE-yDss7boghU7XQ&s",
+    "name1": "Hacken",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Brei%C3%B0ablik_UBK_%28logo%29.svg/langfr-250px-Brei%C3%B0ablik_UBK_%28logo%29.svg.png",
+    "name2": "Breidablik",
+    "champ": "UEFA. Femmes",
+    "heure": "17H30",
+    "date": "11/02/2026",
+    "pro": "Total: (+2.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Sporting_Clube_Portugal.svg/1920px-Logo_Sporting_Clube_Portugal.svg.png",
+    "name1": "Sporting",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWSIX7_MdHqdqD-zGW34E-BTiD1CkmMTgobg&s",
+    "name2": "Hammarby",
+    "champ": "UEFA. Femmes",
+    "heure": "19H45",
+    "date": "11/02/2026",
     "pro": "V1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Sutjeska.png/200px-Sutjeska.png",
-    "name1": "Sutjeska Niksic",
-    "photo2": "https://upload.wikimedia.org/wikipedia/de/thumb/1/18/FK_Jezero_Plav_logo.svg/250px-FK_Jezero_Plav_logo.svg.png",
-    "name2": "Jezero Plav",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5e/Favoritner_AC.svg/1280px-Favoritner_AC.svg.png",
+    "name1": "Favoritner AC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wienerberger.svg/3840px-Wienerberger.svg.png",
+    "name2": "Wienerberg",
     "champ": "Matchs amicaux des clubs",
-    "heure": "13H00",
-    "date": "10/02/2026",
-    "pro": "Total: (+2.5)"
+    "heure": "17H30",
+    "date": "11/02/2026",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/uk/c/ca/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A4%D0%9A_%C2%AB%D0%9B%D0%9D%D0%97%C2%BB_%28%D0%A7%D0%B5%D1%80%D0%BA%D0%B0%D1%81%D0%B8%29.png",
-    "name1": "LNZ",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_Chakhtar_Donetsk.svg/langfr-250px-Logo_Chakhtar_Donetsk.svg.png",
-    "name2": "Chakhtar Donetsk",
+    "photo1": "https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_SC_Wiener_Viktoria_%282013%29.gif",
+    "name1": "Wiener Viktoria",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1280px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "LAC Inter",
     "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "10/02/2026",
-    "pro": "V2"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsgnQCBzo_bcP1kJ7xl1sdZBg_GVkfaGr4w&s",
-    "name1": "Esbjerg FB",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/28/Zimbru-Chisinau.png/225px-Zimbru-Chisinau.png",
-    "name2": "Zimbru Chisinau",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "10/02/2026",
+    "heure": "18H00",
+    "date": "11/02/2026",
     "pro": "Deux équipe vont marquer: OUI"
   },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbczpnADGb_M7h040JtDzJsVL3rt94vRtoUA&s",
-    "name1": "Polissya Jytomyr",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/6f/XHamster_logo_2016.png",
-    "name2": "Halmstards",
+      {
+    "photo1": "https://wiki.salzburg12.at/images/f/f4/Kohfidisch.png",
+    "name1": "ASK Kohfidisch",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZsyAVlv35bpX4NJn27o37nKvYQb7gBnLWQ&s",
+    "name2": "Ilzer SV",
     "champ": "Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "10/02/2026",
-    "pro": "Total: (+2.5)"
+    "heure": "18H30",
+    "date": "11/02/2026",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/AGF_Aarhus_%28logo%29.svg/1280px-AGF_Aarhus_%28logo%29.svg.png",
-    "name1": "AGF Arthus",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUaxOSXA8q_EBLICAoVNXDpKOIAoWhYFRxRw&s",
-    "name2": "Odense",
-    "champ": "Championat du Danemark. Superliga",
-    "heure": "20H00",
-    "date": "09/02/2026",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/FC_Black_Stars_Basel.png/250px-FC_Black_Stars_Basel.png",
+    "name1": "Black Stars Basel",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Logo_FC_Basel_2023.svg/1920px-Logo_FC_Basel_2023.svg.png",
+    "name2": "Basel ll",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "19H00",
+    "date": "11/02/2026",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUBOXMdkEYRz_KSdn0UQbqqrF74kBgWBNWAw&s",
+    "name1": "Slowianin Woliborz",
+    "photo2": "https://static.wikia.nocookie.net/kibice/images/c/cc/PoloniaNysaherb.png/revision/latest?cb=20250721215420&path-prefix=pl",
+    "name2": "Ponolia Nysa",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "19H30",
+    "date": "11/02/2026",
+    "pro": "Deux équipe vont marquer: OUI"
   }
 ]
