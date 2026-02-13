@@ -1,103 +1,83 @@
 
  [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/pt/7/7e/Oud_heverlee_leuven.png",
-    "name1": "Oud Heverlee Louvain",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1920px-Arsenal_FC.svg.png",
-    "name2": "Arsenal L.F.C.",
-    "champ": "UEFA. Femmes",
-    "heure": "17H45",
-    "date": "11/02/2026",
-    "pro": "V2 Et TP(2.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/73/Logo_CD_Tondela_2019.svg/1280px-Logo_CD_Tondela_2019.svg.png",
+    "name1": "Tondela",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/F.C._Alverca_logo.svg/1280px-F.C._Alverca_logo.svg.png",
+    "name2": "Alverca.",
+    "champ": "Football .Portugal. Première Ligue",
+    "heure": "20H45",
+    "date": "13/02/2026",
+    "pro": "Total 2: (+0.5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Logo_Paris_FC_2011.svg/500px-Logo_Paris_FC_2011.svg.png",
-    "name1": "Paris FC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
-    "name2": "Real Madrid",
-    "champ": "UEFA. Femmes",
-    "heure": "20H00",
-    "date": "11/02/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNG0L6ki6V4Nb6DzLjEBBjffBymlJOhtSkHw&s",
+    "name1": "Galatasaray",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS65FBwmEyGSB_IdhsBOc0sOJFaZFVMeXM9cQ&s",
+    "name2": "Eyupspor",
+    "champ": "Football . Championnat de Turquie. Super Lig",
+    "heure": "17H00",
+    "date": "13/02/2026",
+    "pro": "V1 ET TP (2.5) OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/langfr-250px-Logo_Eintracht_Francfort.svg.png",
-    "name1": "Eintracht Frankfurt",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnv_SMKcAKCPJyoqyvdIw61To6SWwstNXB4g&s",
-    "name2": "Nordsjaelland",
-    "champ": "UEFA. Femmes",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/1._FC_N%C3%BCrnberg_logo.svg/1280px-1._FC_N%C3%BCrnberg_logo.svg.png",
+    "name1": "Nurnberg",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYj5Kga37s_Oi0ifghMbC-4IncP5WmYCP9Xw&s",
+    "name2": "Karlsruher",
+    "champ": "Football . Allemagne. 2. Bundesliga",
     "heure": "17H30",
-    "date": "11/02/2026",
-    "pro": "V2 Et TP(2.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ730IqxvO3PjC8iClYJtE-yDss7boghU7XQ&s",
-    "name1": "Hacken",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Brei%C3%B0ablik_UBK_%28logo%29.svg/langfr-250px-Brei%C3%B0ablik_UBK_%28logo%29.svg.png",
-    "name2": "Breidablik",
-    "champ": "UEFA. Femmes",
-    "heure": "17H30",
-    "date": "11/02/2026",
+    "date": "13/02/2026",
     "pro": "Total: (+2.5)"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Sporting_Clube_Portugal.svg/1920px-Logo_Sporting_Clube_Portugal.svg.png",
-    "name1": "Sporting",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWSIX7_MdHqdqD-zGW34E-BTiD1CkmMTgobg&s",
-    "name2": "Hammarby",
-    "champ": "UEFA. Femmes",
-    "heure": "19H45",
-    "date": "11/02/2026",
-    "pro": "V1"
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/langfr-250px-Fortuna_D%C3%BCsseldorf.svg.png",
+    "name1": "Fortuna Dusseldorf",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/SC_Preussen_Muenster_%28logo%29.svg/1280px-SC_Preussen_Muenster_%28logo%29.svg.png",
+    "name2": "Preussen Munster",
+    "champ": "Football . Allemagne. 2. Bundesliga",
+    "heure": "17H30",
+    "date": "13/02/2026",
+    "pro": "1X2: V1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5e/Favoritner_AC.svg/1280px-Favoritner_AC.svg.png",
-    "name1": "Favoritner AC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wienerberger.svg/3840px-Wienerberger.svg.png",
-    "name2": "Wienerberg",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "17H30",
-    "date": "11/02/2026",
-    "pro": "V1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbxnBzqmxG1vEr-9-mh4j8JOBO1AYCs41xEw&s",
+    "name1": "UD Almeria",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/bf/FC_Andorra_logo_team.png",
+    "name2": "Andorra Andorra la Vella",
+    "champ": "Football .Espagne. Division 2",
+    "heure": "19H30",
+    "date": "13/02/2026",
+    "pro": "Deux équipe vont marquer: Oui"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/Logo_Clermont_Foot_63_2021.svg/1280px-Logo_Clermont_Foot_63_2021.svg.png",
+    "name1": "Clermont Foot 63",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_Rodez_AF_2017.svg/1280px-Logo_Rodez_AF_2017.svg.png",
+    "name2": "Rodez Aveyron",
+    "champ": "Football . France. Ligue 2",
+    "heure": "19HO0",
+    "date": "13/02/2026",
+    "pro": "Double chance: 1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_SC_Wiener_Viktoria_%282013%29.gif",
-    "name1": "Wiener Viktoria",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1280px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "LAC Inter",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "18H00",
-    "date": "11/02/2026",
-    "pro": "Deux équipe vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/Logo_Stade_Lavallois_MFC_2025.svg/langfr-250px-Logo_Stade_Lavallois_MFC_2025.svg.png",
+    "name1": "Stade Lavallois",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_FC_Annecy_-_2022.svg/langfr-250px-Logo_FC_Annecy_-_2022.svg.png",
+    "name2": "Annecy",
+    "champ": "Football . France. Ligue 2",
+    "heure": "19H00",
+    "date": "13/02/2026",
+    "pro": "Double chance: 2X"
   },
       {
-    "photo1": "https://wiki.salzburg12.at/images/f/f4/Kohfidisch.png",
-    "name1": "ASK Kohfidisch",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZsyAVlv35bpX4NJn27o37nKvYQb7gBnLWQ&s",
-    "name2": "Ilzer SV",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "18H30",
-    "date": "11/02/2026",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/FC_Black_Stars_Basel.png/250px-FC_Black_Stars_Basel.png",
-    "name1": "Black Stars Basel",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Logo_FC_Basel_2023.svg/1920px-Logo_FC_Basel_2023.svg.png",
-    "name2": "Basel ll",
-    "champ": "Matchs amicaux des clubs",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX8Mv3Sn-fN2t1vrTMvln46los0hlEjTL91A&s",
+    "name1": "Pau",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2OdSigfYp2-vJrEmRI-UujvXwkcP3ifHkpQ&s",
+    "name2": "Boulogne",
+    "champ": "Football . France. Ligue 2",
     "heure": "19H00",
-    "date": "11/02/2026",
-    "pro": "2X"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUBOXMdkEYRz_KSdn0UQbqqrF74kBgWBNWAw&s",
-    "name1": "Slowianin Woliborz",
-    "photo2": "https://static.wikia.nocookie.net/kibice/images/c/cc/PoloniaNysaherb.png/revision/latest?cb=20250721215420&path-prefix=pl",
-    "name2": "Ponolia Nysa",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "19H30",
-    "date": "11/02/2026",
-    "pro": "Deux équipe vont marquer: OUI"
+    "date": "13/02/2026",
+    "pro": "1X ET TP (1.5) Oui"
   }
 ]
