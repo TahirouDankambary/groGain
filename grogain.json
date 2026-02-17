@@ -1,83 +1,103 @@
 
  [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/73/Logo_CD_Tondela_2019.svg/1280px-Logo_CD_Tondela_2019.svg.png",
-    "name1": "Tondela",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/F.C._Alverca_logo.svg/1280px-F.C._Alverca_logo.svg.png",
-    "name2": "Alverca.",
-    "champ": "Football .Portugal. Première Ligue",
-    "heure": "20H45",
-    "date": "13/02/2026",
-    "pro": "Total 2: (+0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Barnsley_FC.svg/1280px-Barnsley_FC.svg.png",
+    "name1": "Barnsley",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/61/Logo_Peterborough_United_2008.svg/1280px-Logo_Peterborough_United_2008.svg.png",
+    "name2": "Petersburg United",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "19H45",
+    "date": "17/02/2026",
+    "pro": "1X Et TP(1.5) - OUI"
   },
-   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNG0L6ki6V4Nb6DzLjEBBjffBymlJOhtSkHw&s",
-    "name1": "Galatasaray",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS65FBwmEyGSB_IdhsBOc0sOJFaZFVMeXM9cQ&s",
-    "name2": "Eyupspor",
-    "champ": "Football . Championnat de Turquie. Super Lig",
-    "heure": "17H00",
-    "date": "13/02/2026",
-    "pro": "V1 ET TP (2.5) - OUI"
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Burton_Albion_FC_crest.svg/1280px-Burton_Albion_FC_crest.svg.png",
+    "name1": "Burton Albion",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Rotherham_United_F.C._svg.svg/250px-Rotherham_United_F.C._svg.svg.png",
+    "name2": "Rotherham United",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "19H45",
+    "date": "17/02/2026",
+    "pro": "Total: (+2.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/1._FC_N%C3%BCrnberg_logo.svg/1280px-1._FC_N%C3%BCrnberg_logo.svg.png",
-    "name1": "Nurnberg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYj5Kga37s_Oi0ifghMbC-4IncP5WmYCP9Xw&s",
-    "name2": "Karlsruher",
-    "champ": "Football . Allemagne. 2. Bundesliga",
-    "heure": "17H30",
-    "date": "13/02/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBisTVoOLrozIG7ksIG99jhuQ6iY5v1K6PLw&s",
+    "name1": "Bradford City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Stockport_County_FC_logo_2020.svg/1280px-Stockport_County_FC_logo_2020.svg.png",
+    "name2": "Stockport County",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "19H45",
+    "date": "17/02/2026",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Doncaster_Rovers_F.C._logo.svg/1280px-Doncaster_Rovers_F.C._logo.svg.png",
+    "name1": "Doncaster Rovers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/bs/4/45/Huddersfield_logo.png",
+    "name2": "Huddersfield Town",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "19H45",
+    "date": "17/02/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBKume6UzBb42ENDz2PDotQX2bTojKJBiMOA&s",
+    "name1": "Galatasaray",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75_AXmxgI1xIPdHBSKQ6IWh8pymrUxmbBRg&s",
+    "name2": "Juventus",
+    "champ": "UEFA",
+    "heure": "17H45",
+    "date": "17/02/2026",
+    "pro": "Deux équipes vont marquer: OUI"
+  },  
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_AS_Monaco_FC_2021.svg/960px-Logo_AS_Monaco_FC_2021.svg.png",
+    "name1": "AS Monaco",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1280px-Paris_Saint-Germain_Logo.svg.png",
+    "name2": "PSG",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "17/02/2026",
+    "pro": "Total 1: (+1)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9MOpqHz53FM-GfQ6RjXowJlulr9xGIjsJZw&s",
+    "name1": "Benfica",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
+    "name2": "Real Madrid",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "17/02/2026",
+    "pro": "2X Et TP(2.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png",
+    "name1": "Dortmund",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/250px-AtalantaBC.svg.png",
+    "name2": "Atalanta",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "17/02/2026",
     "pro": "Total: (+2.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/langfr-250px-Fortuna_D%C3%BCsseldorf.svg.png",
-    "name1": "Fortuna Dusseldorf",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/SC_Preussen_Muenster_%28logo%29.svg/1280px-SC_Preussen_Muenster_%28logo%29.svg.png",
-    "name2": "Preussen Munster",
-    "champ": "Football . Allemagne. 2. Bundesliga",
-    "heure": "17H30",
-    "date": "13/02/2026",
-    "pro": "1X2: V1"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbxnBzqmxG1vEr-9-mh4j8JOBO1AYCs41xEw&s",
-    "name1": "UD Almeria",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/bf/FC_Andorra_logo_team.png",
-    "name2": "Andorra Andorra la Vella",
-    "champ": "Football .Espagne. Division 2",
-    "heure": "19H30",
-    "date": "13/02/2026",
-    "pro": "Deux équipe vont marquer: Oui"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/Logo_Clermont_Foot_63_2021.svg/1280px-Logo_Clermont_Foot_63_2021.svg.png",
-    "name1": "Clermont Foot 63",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_Rodez_AF_2017.svg/1280px-Logo_Rodez_AF_2017.svg.png",
-    "name2": "Rodez Aveyron",
-    "champ": "Football . France. Ligue 2",
-    "heure": "19HO0",
-    "date": "13/02/2026",
-    "pro": "Double chance: 1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Charlton_Athletic.svg/langfr-250px-Charlton_Athletic.svg.png",
+    "name1": "Charlton Athletic",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Portsmouth_FC_logo.svg/1280px-Portsmouth_FC_logo.svg.png",
+    "name2": "Portsmouth",
+    "champ": "Angleterre. Championship",
+    "heure": "19H45",
+    "date": "17/02/2026",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/Logo_Stade_Lavallois_MFC_2025.svg/langfr-250px-Logo_Stade_Lavallois_MFC_2025.svg.png",
-    "name1": "Stade Lavallois",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_FC_Annecy_-_2022.svg/langfr-250px-Logo_FC_Annecy_-_2022.svg.png",
-    "name2": "Annecy",
-    "champ": "Football . France. Ligue 2",
-    "heure": "19H00",
-    "date": "13/02/2026",
-    "pro": "Double chance: 2X"
-  },
-      {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX8Mv3Sn-fN2t1vrTMvln46los0hlEjTL91A&s",
-    "name1": "Pau",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2OdSigfYp2-vJrEmRI-UujvXwkcP3ifHkpQ&s",
-    "name2": "Boulogne",
-    "champ": "Football . France. Ligue 2",
-    "heure": "19H00",
-    "date": "13/02/2026",
-    "pro": "1X ET TP (1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_Bristol_City_FC_2019.svg/1280px-Logo_Bristol_City_FC_2019.svg.png",
+    "name1": "Bristol City",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTkG4dQZI9NEzvvNlNlj5BW8USUvz7joza-Q&s",
+    "name2": "Wrexham",
+    "champ": "Angleterre. Championship",
+    "heure": "19H45",
+    "date": "17/02/2026",
+    "pro": "Total: (+2)"
   }
 ]
