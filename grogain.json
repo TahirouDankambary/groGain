@@ -1,83 +1,64 @@
 
  [
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNALo4bFtMETpJqV-_Fe5NwveGeaDpqtcNEg&s",
-    "name1": "Rijeka",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/AC_Omonia_logo.svg/1280px-AC_Omonia_logo.svg.png",
-    "name2": "AC Omonia",
-    "champ": "Football. Ligue Conférence de l'UEFA",
-    "heure": "17H45",
-    "date": "26/02/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Dm_93HnGvoMdeduc7zZL9PwtFnoQaHsnrQ&s",
+    "name1": "Gil Vicente",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3f/Logo_SL_Benfica_%283_Stars%29.svg/langfr-250px-Logo_SL_Benfica_%283_Stars%29.svg.png",
+    "name2": "Benfica",
+    "champ": "Football. Portugal. Première ligue",
+    "heure": "20H15",
+    "date": "02/03/2026",
+    "pro": "V2 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Samsunspor_2020.svg/langfr-250px-Logo_Samsunspor_2020.svg.png",
-    "name1": "Samsunspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/Logo_KF_Shk%C3%ABndija.svg/langfr-250px-Logo_KF_Shk%C3%ABndija.svg.png",
-    "name2": "Skendjia",
-    "champ": "Football. Ligue Conférence de l'UEFA",
-    "heure": "17H45",
-    "date": "26/02/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/langfr-250px-Logo_ACF_Fiorentina_2022.svg.png",
-    "name1": "Fiorentina",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNi7p_5cXY5K9G4hnHCsAOiLVUfdSWLgTvKQ&s",
-    "name2": "Jagiellonia",
-    "champ": "Football. Ligue Conférence de l'UEFA",
-    "heure": "17H45",
-    "date": "26/02/2026",
-    "pro": "1X2: V1"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRbPEb7tx9sorL0heHmqtP4mxMJUzVHgiu6Q&s",
-    "name1": "Celje",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvyA9SDN4MtnovutYBR6JaVvIl9vaHlsrgMw&s",
-    "name2": "KF Drita",
-    "champ": "Football. Ligue Conférence de l'UEFA",
-    "heure": "17H45",
-    "date": "26/02/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1280px-Logo_AZ_Alkmaar.svg.png",
-    "name1": "AZ Alkmaar",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH9MlQbrBeYo2dVGRFuuw6D1SH5znsKy7Vew&s",
-    "name2": "Noah Yerevan",
-    "champ": "Football. Ligue Conférence de l'UEFA",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3osRcq9lzYSYNKLmRBBxiX5SSTXiNAI2rg&s",
+    "name1": "Bermudes U2",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/1280px-Flag_of_Costa_Rica_%28state%29.svg.png",
+    "name2": "Costa Rica U20",
+    "champ": "Football. CONCACAF U20",
     "heure": "20H00",
-    "date": "26/02/2026",
-    "pro": "Total: (+2)"
+    "date": "02/03/2026",
+    "pro": "V2 Et TP(2.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/3840px-Flag_of_Anguilla.svg.png",
+    "name1": "Auguilla U20",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/1280px-Flag_of_Cura%C3%A7ao.svg.png",
+    "name2": "curacao (20)",
+    "champ": "Football. CONCACAF U20",
+    "heure": "21H00",
+    "date": "02/03/2026",
+    "pro": "Total: (+1.22)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/250px-Flag_of_the_United_States_Virgin_Islands.svg.png",
+    "name1": "United States Virgin Islands U20",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/3840px-Flag_of_Nicaragua.svg.png",
+    "name2": "Nicaragua U20",
+    "champ": "Football. CONCACAF U20",
+    "heure": "22H00",
+    "date": "02/03/2026",
+    "pro": "Total: (+1.44)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/1280px-Flag_of_Guyana.svg.png",
+    "name1": "Gyuana (20)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_F%C3%A9d%C3%A9ration_Ha%C3%AFtienne_de_Football_2012.svg/1280px-Logo_F%C3%A9d%C3%A9ration_Ha%C3%AFtienne_de_Football_2012.svg.png",
+    "name2": "Haiti U20",
+    "champ": "Football. CONCACAF U20",
+    "heure": "00H00",
+    "date": "03/03/2026",
+    "pro": "Deux équipe vont marquer: OUI"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP1jcHh-Qy8hSif__yR789-sSZerMb0lKynQ&s",
-    "name1": "Crystal Palace",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVlAWuX09Za2-xn3FK2yaAt0xXwnRzjJL3Wg&s",
-    "name2": "HSK Zrinjski Mostar",
-    "champ": "Football. Ligue Conférence de l'UEFA",
-    "heure": "20H00",
-    "date": "26/02/2026",
-    "pro": "V1 Et TP(2.5) - OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHzwR4uLcWHZPKOFg7vqM9BV0tU-p_8MHv_g&s",
+    "name1": "Saint Lucia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langfr-250px-Flag_of_Mexico.svg.png",
+    "name2": "Mexique",
+    "champ": "Football. CONCACAF. Femmes",
+    "heure": "19H00",
+    "date": "02/03/2026",
+    "pro": "Total: (+1.22)"
   },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkotcOnocG5_cqrsvBDWmmgc0QTQD7knbdRQ&s",
-    "name1": "Lech Poznan",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQiJLCTzEHb7VK-xHCm8u0dqFci8scif0juQ&s",
-    "name2": "Kuopion Palloseura",
-    "champ": "Football. Ligue Conférence de l'UEFA",
-    "heure": "20H00",
-    "date": "26/02/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg9cjT2Qma8M2ZHnxiaNWz_9zbyVxjcLIX5Q&s",
-    "name1": "Lausanne-Sport",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sk_sigma.svg/langfr-250px-Sk_sigma.svg.png",
-    "name2": "Sigma Olomouc",
-    "champ": "Football. Ligue Conférence de l'UEFA",
-    "heure": " 20H00",
-    "date": "26/02/2026",
-    "pro": "Deux équipe vont marquer: OUI"
-  }
-]
+  ]
+    
