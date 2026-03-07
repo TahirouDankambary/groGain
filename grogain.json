@@ -1,64 +1,84 @@
 
  [
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Dm_93HnGvoMdeduc7zZL9PwtFnoQaHsnrQ&s",
-    "name1": "Gil Vicente",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3f/Logo_SL_Benfica_%283_Stars%29.svg/langfr-250px-Logo_SL_Benfica_%283_Stars%29.svg.png",
-    "name2": "Benfica",
-    "champ": "Football. Portugal. Première ligue",
-    "heure": "20H15",
-    "date": "02/03/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7d/Mansfield_Town_FC.svg/1280px-Mansfield_Town_FC.svg.png",
+    "name1": "Mansfield Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/960px-Arsenal_FC.svg.png",
+    "name2": "Arsenal",
+    "champ": "Football. Portugal. Coupe d'Angleterre",
+    "heure": "12H15",
+    "date": "07/03/2026",
     "pro": "V2 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3osRcq9lzYSYNKLmRBBxiX5SSTXiNAI2rg&s",
-    "name1": "Bermudes U2",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/1280px-Flag_of_Costa_Rica_%28state%29.svg.png",
-    "name2": "Costa Rica U20",
-    "champ": "Football. CONCACAF U20",
-    "heure": "20H00",
-    "date": "02/03/2026",
-    "pro": "V2 Et TP(2.5) - OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs3BjXvCCF52i7_l4Fzo-qBZI06iBJt2w_MQ&s",
+    "name1": "Osasuna",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUM7Zjen1qBxgHJfsLJg7FAAVuEDZneNj_Q&s",
+    "name2": "Majorque",
+    "champ": "Football. Espagne. La Liga",
+    "heure": "13H00",
+    "date": "07/03/2026",
+    "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/3840px-Flag_of_Anguilla.svg.png",
-    "name1": "Auguilla U20",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/1280px-Flag_of_Cura%C3%A7ao.svg.png",
-    "name2": "curacao (20)",
-    "champ": "Football. CONCACAF U20",
-    "heure": "21H00",
-    "date": "02/03/2026",
-    "pro": "Total: (+7)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCtbxvWnQwEKkvtrBRv8RiGOydzXpGC4_Qzw&s",
+    "name1": "Cagliari Calcio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_Como_1907_2019.png",
+    "name2": "Como",
+    "champ": "Football. Italie. Série A",
+    "heure": "14H00",
+    "date": "07/03/2026",
+    "pro": "2X Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/250px-Flag_of_the_United_States_Virgin_Islands.svg.png",
-    "name1": "United States Virgin Islands U20",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/3840px-Flag_of_Nicaragua.svg.png",
-    "name2": "Nicaragua U20",
-    "champ": "Football. CONCACAF U20",
-    "heure": "22H00",
-    "date": "02/03/2026",
-    "pro": "Total: (+7)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_1._FSV_Mayence_05_2024.svg/1280px-Logo_1._FSV_Mayence_05_2024.svg.png",
+    "name1": "FSV Mayence 05",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1280px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name2": "VFB Stuttgart",
+    "champ": "Football. Allemagne. Bundesliga",
+    "heure": "14H30",
+    "date": "07/03/2026",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/1280px-Flag_of_Guyana.svg.png",
-    "name1": "Gyuana (20)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_F%C3%A9d%C3%A9ration_Ha%C3%AFtienne_de_Football_2012.svg/1280px-Logo_F%C3%A9d%C3%A9ration_Ha%C3%AFtienne_de_Football_2012.svg.png",
-    "name2": "Haiti U20",
-    "champ": "Football. CONCACAF U20",
-    "heure": "00H00",
-    "date": "03/03/2026",
-    "pro": "Deux équipe vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/langfr-250px-SC_Freiburg_%28logo%29.svg.png",
+    "name1": "Fribourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/langfr-250px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name2": "Bayer 04 Leverkusen",
+    "champ": "Football. Allemagne. Bundesliga",
+    "heure": "14H30",
+    "date": "07/03/2026",
+    "pro": "V2 Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHzwR4uLcWHZPKOFg7vqM9BV0tU-p_8MHv_g&s",
-    "name1": "Saint Lucia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langfr-250px-Flag_of_Mexico.svg.png",
-    "name2": "Mexique",
-    "champ": "Football. CONCACAF. Femmes",
-    "heure": "19H00",
-    "date": "02/03/2026",
-    "pro": "Total: (+9)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d7/Logo_1._FC_Heidenheim_1846_%282007%29.svg/1280px-Logo_1._FC_Heidenheim_1846_%282007%29.svg.png",
+    "name1": "Heidenheim",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_TSG_1899_Hoffenheim_2025.svg/1280px-Logo_TSG_1899_Hoffenheim_2025.svg.png",
+    "name2": "TSG 1899 Hoffenheim",
+    "champ": "Football. Allemagne. Bundesliga",
+    "heure": "14H30",
+    "date": "07/03/2026",
+    "pro": "1X2: V2"
+  }
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlIEhfMxJo5C_pxUuN07P7in8j0dd1Bho0g&s",
+    "name1": "Toulouse",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Olympique_de_Marseille.svg/langfr-250px-Logo_Olympique_de_Marseille.svg.png",
+    "name2": "Olympique de Marseille",
+    "champ": "Football. France. Ligue 1",
+    "heure": "20H05",
+    "date": "07/03/2026",
+    "pro": "2X Et TP(1.5) - OUI"
+  },  
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/ru/thumb/a/ad/FC_Pari_NN_Logo_2023.svg/250px-FC_Pari_NN_Logo_2023.svg.png",
+    "name1": "Pari Nizhny Novgorod",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/e/e6/HC_Sochi_Logo_2024.png",
+    "name2": "Sochi",
+    "champ": "Football. Championnat de Russie",
+    "heure": "16H00",
+    "date": "07/03/2026",
+    "pro": "Deux équipe vont marquer: OUI"
   }
   ]
     
