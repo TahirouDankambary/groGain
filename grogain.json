@@ -5,7 +5,7 @@
     "name1": "Malaga",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Logo_SD_Huesca_2023.svg/960px-Logo_SD_Huesca_2023.svg.png",
     "name2": "Huesca",
-    "champ": "Football. Espagne. Division 2",
+    "champ": "Espagne. Division 2",
     "heure": "17H30",
     "date": "15/03/2026",
     "pro": "12"
@@ -15,7 +15,7 @@
     "name1": "SD Eibar",
     "photo2": "https://upload.wikimedia.org/wikipedia/en/0/00/Burgos_CF_escudo.png",
     "name2": "Burgos",
-    "champ": "Football. Espagne. Division 2",
+    "champ": "Espagne. Division 2",
     "heure": "17H30",
     "date": "15/03/2026",
     "pro": "Total: (+1.5)"
@@ -25,7 +25,7 @@
     "name1": "Sporting de Gijon",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/CD_Castell%C3%B3n_-_Logo.svg/langfr-250px-CD_Castell%C3%B3n_-_Logo.svg.png",
     "name2": "Gastellon",
-    "champ": "Football. Espagne. Division 2",
+    "champ": "Espagne. Division 2",
     "heure": "20H00",
     "date": "15/03/2026",
     "pro": "2X Et TP(1.5) - OUI"
@@ -35,7 +35,7 @@
     "name1": "Pise",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/1280px-Cagliari_Calcio_1920_logo.svg.png",
     "name2": "Cagliari Calcio",
-    "champ": "Football. Italie. Série A",
+    "champ": "Italie. Série A",
     "heure": "14H00",
     "date": "15/03/2026",
     "pro": "Total: (+1.5)"
@@ -45,7 +45,7 @@
     "name1": "Sassuolo Calcio",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/langfr-250px-Logo_Bologna_FC_-_2018.svg.png",
     "name2": "Bologna 1909",
-    "champ": "Football. Italie. Série A",
+    "champ": "Italie. Série A",
     "heure": "14H00",
     "date": "15/03/2026",
     "pro": "Deux équipe vont marquer - OUI"
@@ -55,7 +55,7 @@
     "name1": "Lazio",
     "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/17/AC_Milan.png",
     "name2": "Milan",
-    "champ": "Football. Italie. Série A",
+    "champ": "Italie. Série A",
     "heure": "19H45",
     "date": "15/03/2026",
     "pro": "Total: (+2)"
@@ -65,7 +65,7 @@
     "name1": "Sudtirol",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm4WWo_E-qrOgfkS28Q1Nn3iXKL-4s81TtmQ&s",
     "name2": "Delfino Pescara",
-    "champ": "Football. Italie. Série B",
+    "champ": "Italie. Série B",
     "heure": "19H45",
     "date": "15/03/2026",
     "pro": "1X2: V1"
@@ -75,7 +75,7 @@
     "name1": "Strasbourg",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqBVxdX43DXfb9KfB5fIhmnB-jfPtGf8UTg&s",
     "name2": "Paris",
-    "champ": "Football. France. Ligue 1",
+    "champ": "France. Ligue 1",
     "heure": "19H45",
     "date": "15/03/2026",
     "pro": "1X Et TP(1.5) - OUI"
