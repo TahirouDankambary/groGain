@@ -1,84 +1,84 @@
 
  [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Logo_Casa_Pia_AC_2017.svg/1280px-Logo_Casa_Pia_AC_2017.svg.png",
-    "name1": "Casa Pia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Logo_SC_Braga_2018.svg/1280px-Logo_SC_Braga_2018.svg.png",
-    "name2": "Braga",
-    "champ": "Football. Portugal. Première Ligue",
-    "heure": "18H00",
-    "date": "23/04/2026",
-    "pro": "V2 Et TP (1.5)- OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/langfr-250px-Logo_Eintracht_Francfort.svg.png",
+    "name1": "Eintracht Frankfurt",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvPNB2tvfS-yCHJQCoLrm_hmxXjREpBrbNrQ&s",
+    "name2": "Hambourg",
+    "champ": "Football. Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "02/05/2026",
+    "pro": "V1 Et TP (1.5)- OUI"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5ISUBY63H06UIa004WimBoDZAk1KCrYuCQ&s",
-    "name1": "S.C.U. Torreense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/be/AD_Fafe_logo.png",
-    "name2": "AD Fafe",
-    "champ": "Football. Coupe du Portugal",
-    "heure": "19H45",
-    "date": "23/04/2026",
-    "pro": "Total: (2.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1920px-SV-Werder-Bremen-Logo.svg.png",
+    "name1": "Werder Bremen",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTnMXtuuezcJbGLvLc5fA6L9n1gvs3QnuWg&s",
+    "name2": "Augsbourg",
+    "champ": "Football. Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "02/05/2026",
+    "pro": "1X Et TP (1.5)- OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/27/Al_Mokawloon_Al_Arab_SC_logo.png",
-    "name1": "AL-Moqaouloun",
-    "photo2": "https://mir-s3-cdn-cf.behance.net/projects/404/19310469.548f3b299a57e.jpg",
-    "name2": "AL Ittihad Alexandria",
-    "champ": "Football. Egypte. Première Ligue",
-    "heure": "15H00",
-    "date": "23/04/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_1._FC_Union_Berlin_2024.svg/1280px-Logo_1._FC_Union_Berlin_2024.svg.png",
+    "name1": "Union Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg/1280px-1._FC_Koeln_Logo_2014%E2%80%93.svg.png",
+    "name2": "Cologne",
+    "champ": "Football. Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "02/05/2026",
+    "pro": "1X Et TP (1.5)- OUI"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8WWUabHRsKAzoHQH4Y5FWtWzwOLr4HYxc8g&s",
-    "name1": "Ghazl EL Mahalla",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiq9SswAMBwV8LHmS0egDfyHfBkfb0o_1i_w&s",
-    "name2": "Protrojet",
-    "champ": "Football. Egypte. Première Ligue",
-    "heure": "18H00",
-    "date": "23/04/2026",
-    "pro": "Total: (1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcaOvUlpgdLLD9GkylT4P4uTvUitpIX-YfFg&s",
+    "name1": "TSG 1899 Hoffenheim",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1280px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name2": "VFB Stuttgart",
+    "champ": "Football. Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "02/05/2026",
+    "pro": "2X Et TP (1.5)- OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/e6/Logo_Zamalek.png",
-    "name1": "Zamalek",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Pyramids_FC_logo.png/250px-Pyramids_FC_logo.png",
-    "name2": "Pyramids",
-    "champ": "Football. Egypte. Première Ligue",
-    "heure": "18H00",
-    "date": "23/04/2026",
-    "pro": "12"
-  },  
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZtIeb-o5Yz37-6NNLYuFPhDp-6vZzXzD9Q&s",
-    "name1": "Salford City",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7hWpddwsboZHLd-2fE5LFFa6o_EKKj88Iqg&s",
-    "name2": "Bromley",
-    "champ": "Football. Angleterre. Ligue 2",
-    "heure": "19H00",
-    "date": "23/04/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxn3FNeB8AMFnFQUBrRRGZbB1YpAsVPsdchA&s",
+    "name1": "Villarreal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/Logo_Levante_UD.svg/1280px-Logo_Levante_UD.svg.png",
+    "name2": "Levante UD",
+    "champ": "Football. Espagne. La Liga",
+    "heure": "12H00",
+    "date": "02/05/2026",
     "pro": "Total: (+2.5)"
-  },
-  {
-    "photo1":"https://upload.wikimedia.org/wikipedia/en/f/f1/K._Sint-Truidense_V.V._logo.png",
-    "name1": "Sint-Truidense",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMi2nPci4T3W9MXkXfb1g6ZGye10k6Ztlu2A&s",
-    "name2": "Anderlecht",
-    "champ": "Football. Belgique. Jupiler Ligue",
-    "heure": "18H30",
-    "date": "23/04/2026",
-    "pro": "Deux équipe vont marquer: OUI"
   },  
   {
-    "photo1": "https://www.designyourway.net/blog/wp-content/uploads/2024/10/FC-Nordsjaelland-logo.jpg",
-    "name1": "Nordsjaelland",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1oj7v3OrP3o3GBxRmgiSN1UDjDT_12QlSPg&s",
-    "name2": "AGF Arhus",
-    "champ": "Football. Denemarrk. Superliga",
-    "heure": "16H00",
-    "date": "23/04/2026",
-    "pro": "Deux équipe vont marquer: OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSilaLddyDSAoDURom4BE8WDY2T72kQ6r7e-A&s",
+    "name1": "Deportivo Alaves",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1920px-Logo_Athletic_Club_Bilbao.svg.png",
+    "name2": "Athletic Bilbao",
+    "champ": "Football. Espagne. La Liga",
+    "heure": "16H30",
+    "date": "02/05/2026",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRzuAiIMiUCdX33mhs2EC_YmoySfwBxAlHpA&s",
+    "name1": "Udinese Calcio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Logo_Torino_FC_2024.svg/langfr-250px-Logo_Torino_FC_2024.svg.png",
+    "name2": "Torino",
+    "champ": "Football. Espagne. La Liga",
+    "heure": "13H00",
+    "date": "02/05/2026",
+    "pro": "1X Et TP (1.5)- OUI"
+  },  
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg/langfr-250px-Logo_FC_Nantes_%28avec_fond%29_-_2019.svg.png",
+    "name1": "Nantes",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmxneqPzGsdafKE5iKf9J5nHB0CCPhkJqefA&s",
+    "name2": "Olympique de Marseille",
+    "champ": "Football. France. Ligue 1",
+    "heure": "13H00",
+    "date": "02/05/2026",
+    "pro": "2X Et TP (1.5)- OUI"
   }
   ]
  
