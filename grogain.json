@@ -1,84 +1,84 @@
 
  [
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCiKJucK5CT7kv4HVGptYj52fFMWCu2TUtNg&s",
-    "name1": "Jonkopings Sodra",
-    "photo2": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0013/3391/brand.gif?itok=LwgcvI_a",
-    "name2": "Lunds",
-    "champ": "Football. Suède. Division 1",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7d/V%C3%A4xj%C3%B6_DFF_logo.svg/langfr-250px-V%C3%A4xj%C3%B6_DFF_logo.svg.png",
+    "name1": "VAXJO DFF (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/Logo_IF_Brommapojkarna_2020.svg/langfr-250px-Logo_IF_Brommapojkarna_2020.svg.png",
+    "name2": "Brommapojkarma (Femmes)",
+    "champ": "Football. Suède. Allsvenskan. Femmes",
     "heure": "17H00",
-    "date": "18/06/2026",
+    "date": "24/06/2026",
     "pro": "V1 Et TP (1.5)- OUI"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUfxWOHJEiNfS3-Y4uLq8R8ZjwW_nig2ThdQ&s",
-    "name1": "Vasalunds",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSNe9vTJ6dANa-F8lZ-2GrdqUJ_XUVwvdDeQ&s",
-    "name2": "Karlbergs",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_DhSwcAQoLObZkTeLSE0hr9cHdkGPs9Dgg&s",
+    "name1": "Norrkoping (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVPF2CpPupbE3fRbrB5U4DBpoclU0W8P3Kfg&s",
+    "name2": "Vittsjo (Femmes)",
+    "champ": "Football. Suède. Allsvenskan. Femmes",
+    "heure": "17H00",
+    "date": "24/06/2026",
+    "pro": "V1 Et TP (1.5)- OUI"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQITgzEZ5_d0uh12CAFdmJHveMFByqbTFjX2Q&s",
+    "name1": "AIK (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8e/Eskilstuna_United_DFF_logo.svg/langfr-250px-Eskilstuna_United_DFF_logo.svg.png",
+    "name2": "Eskilstuna United (Femmes)",
+    "champ": "Football. Suède. Allsvenskan. Femmes",
+    "heure": "17H00",
+    "date": "24/06/2026",
+    "pro": "V1 Et TP (1.5)- OUI"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzF-XHr_tSss5SHJAuMnntFzSts574jdDJew&s",
+    "name1": "Karlbergs",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCLLk_EdzLIN3jZiRNpqTkfkOVW2DAVArPmg&s",
+    "name2": "Pitea",
     "champ": "Football. Suède. Division 1",
     "heure": "17H00",
-    "date": "18/06/2026",
+    "date": "24/06/2026",
+    "pro": "V1 Et TP (1.5)- OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/3/33/FC_Yantra_Gabrovo.png",
+    "name1": "Yantra Gabrovo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Cherno_More_Varna_%28logo%29.svg/langfr-250px-Cherno_More_Varna_%28logo%29.svg.png",
+    "name2": "Tcherno More Varna",
+    "champ": "Football. Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "24/06/2026",
+    "pro": "Deux équipes vont marquer: OUI"
+  },  
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdsJmRgduApkxxsSHzgOYg0FLa16WZ53A9hA&s",
+    "name1": "Grazer AK",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SK_Slovan_Bratislava_logo.svg/langfr-250px-SK_Slovan_Bratislava_logo.svg.png",
+    "name2": "Slovan Bratislava",
+    "champ": "Football. Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "24/06/2026",
     "pro": "Total: (+2.5)"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/61/Swe_gefle.gif/250px-Swe_gefle.gif",
-    "name1": "Gefle",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbrY5Skc4X6296uoeWHxEE2-iWq6B1a87Dkw&s",
-    "name2": "FC Stockholm Internazionale",
-    "champ": "Football. Suède. Division 1",
-    "heure": "17H00",
-    "date": "18/06/2026",
-    "pro": "1X2: V2"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Trelleborgs_FF_%28logo%29.svg/1280px-Trelleborgs_FF_%28logo%29.svg.png",
-    "name1": "Trelleborgs",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4Fjh4CRa52x4en4lyjLujqqlgDyGLd9Huw&s",
-    "name2": "Rosengard",
-    "champ": "Football. Suède. Division 1",
-    "heure": "17H00",
-    "date": "18/06/2026",
-    "pro": "V1 Et TP (1.5)- OUI"
-  },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY8GsawUznXYQEz9HtaIWNzllELX8vyRrUhQ&s",
-    "name1": "Hammarby Talang",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/5/55/FC_J%C3%A4rf%C3%A4lla.png",
-    "name2": "Jarfalla",
-    "champ": "Football. Suède. Division 1",
-    "heure": "17H00",
-    "date": "18/06/2026",
-    "pro": "V1 Et TP (2.5)- OUI"
-  },  
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlyo0OO4igU9ZKMJ0OkqFsjaSKNzgQoQwNFw&s",
-    "name1": "Sollentuna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FBK_Karlstad_logo.svg/1280px-FBK_Karlstad_logo.svg.png",
-    "name2": "FBK Karlstad",
-    "champ": "Football. Suède. Division 1",
-    "heure": "17H30",
-    "date": "18/06/2026",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfR6nOxl0CYQsWp_boU_dVFsxrqhUdwQ4liA&s",
-    "name1": "Jitex BK (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEcSuxS3aPHhZCeKc3u4DT36Pc9Bg8AR_8w&s",
-    "name2": "Orebro (Femmes)",
-    "champ": "Football. Suède. Elitettan. Femmes",
+    "photo1":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dynamo_logo.svg/langfr-250px-Dynamo_logo.svg.png",
+    "name1": "Dynamo Kyiv",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNxgUAx2qrHBTqubqMMr70sWeJbYg-TYxdtg&s",
+    "name2": "MSK Zilina",
+    "champ": "Football. Matchs amicaux des clubs",
     "heure": "16H30",
-    "date": "18/06/2026",
-    "pro": "V2 Et TP (1.5)- OUI"
+    "date": "24/06/2026",
+    "pro": "1X2: V1"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Husqvarna_FF_logo.svg/960px-Husqvarna_FF_logo.svg.png",
-    "name1": "Husqvarna (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/IF_Elfsborg_%28logo%29.svg/1280px-IF_Elfsborg_%28logo%29.svg.png",
-    "name2": "Elfsborg (Femmes)",
-    "champ": "Football. Suède. Elitettan. Femmes",
-    "heure": "17H00",
-    "date": "18/06/2026",
-    "pro": "V2 Et TP (1.5) - OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKOeLQ5F-BufGZ7u3lIdUprmpWFINNosxMuw&s",
+    "name1": "CS Universitatea Craiova",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/a9/Sabah_FC_%28Azerbaijan%29.png",
+    "name2": "Sabah Baku",
+    "champ": "Football. Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "24/06/2026",
+    "pro": "1X2: V1"
   }
 ]
  
