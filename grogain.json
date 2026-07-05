@@ -1,85 +1,94 @@
 
  [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7d/V%C3%A4xj%C3%B6_DFF_logo.svg/langfr-250px-V%C3%A4xj%C3%B6_DFF_logo.svg.png",
-    "name1": "VAXJO DFF (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/Logo_IF_Brommapojkarna_2020.svg/langfr-250px-Logo_IF_Brommapojkarna_2020.svg.png",
-    "name2": "Brommapojkarma (Femmes)",
-    "champ": "Football. Suède. Allsvenskan. Femmes",
-    "heure": "17H00",
-    "date": "24/06/2026",
-    "pro": "V1 Et TP (1.5)- OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_DhSwcAQoLObZkTeLSE0hr9cHdkGPs9Dgg&s",
-    "name1": "Norrkoping (Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVPF2CpPupbE3fRbrB5U4DBpoclU0W8P3Kfg&s",
-    "name2": "Vittsjo (Femmes)",
-    "champ": "Football. Suède. Allsvenskan. Femmes",
-    "heure": "17H00",
-    "date": "24/06/2026",
-    "pro": "1X Et TP (1.5)- OUI"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQITgzEZ5_d0uh12CAFdmJHveMFByqbTFjX2Q&s",
-    "name1": "AIK (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8e/Eskilstuna_United_DFF_logo.svg/langfr-250px-Eskilstuna_United_DFF_logo.svg.png",
-    "name2": "Eskilstuna United (Femmes)",
-    "champ": "Football. Suède. Allsvenskan. Femmes",
-    "heure": "17H00",
-    "date": "24/06/2026",
-    "pro": "V1 Et TP (1.5)- OUI"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzF-XHr_tSss5SHJAuMnntFzSts574jdDJew&s",
-    "name1": "Karlbergs",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCLLk_EdzLIN3jZiRNpqTkfkOVW2DAVArPmg&s",
-    "name2": "Pitea",
-    "champ": "Football. Suède. Division 1",
-    "heure": "17H00",
-    "date": "24/06/2026",
-    "pro": "V1 Et TP (1.5)- OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/3/33/FC_Yantra_Gabrovo.png",
-    "name1": "Yantra Gabrovo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Cherno_More_Varna_%28logo%29.svg/langfr-250px-Cherno_More_Varna_%28logo%29.svg.png",
-    "name2": "Tcherno More Varna",
-    "champ": "Football. Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "24/06/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwpmfSeeyIfT5yvUARnRJCqh_3Tz99GGV3pxX2YMJIdA&s=10",
+    "name1": "Rapid Vienne",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQvKbZ0CDordxJ5zMGghhQJliUXIgvnqwgd9P2E7HB3A&s=10",
+    "name2": "Rapid Bucuresti",
+    "champ": "Football. Matchs amicaux ds clubs",
+    "heure": "15H15",
+    "date": "05/07/2026",
     "pro": "Deux équipes vont marquer: OUI"
-  },  
+  },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdsJmRgduApkxxsSHzgOYg0FLa16WZ53A9hA&s",
-    "name1": "Grazer AK",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SK_Slovan_Bratislava_logo.svg/langfr-250px-SK_Slovan_Bratislava_logo.svg.png",
-    "name2": "Slovan Bratislava",
-    "champ": "Football. Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "24/06/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtA7xoLVay48x9LjfGAdzRT__-61ZDEszNHdMd4C4WJw&s=10",
+    "name1": "Mura",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/2b/ND_Beltinci.png",
+    "name2": "ND Beltinci",
+    "champ": "Football. Matchs amicaux ds clubs",
+    "heure": "16H00",
+    "date": "05/07/2026",
+    "pro": "Total: (+2.5)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE2JUxju9xtAMhTAQUEKz8OjS4Vm9umDHn8-tzLBT8vg&s=10",
+    "name1": "Olimpija Ljubljana",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ451d4sBRJBEAovWzOdzWF4XAFB8bzGdrsHQzJr9U-g&s=10",
+    "name2": "Rudes",
+    "champ": "Football. Matchs amicaux ds clubs",
+    "heure": "16H00",
+    "date": "05/07/2026",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQ2taJBNwdxjVqM6S4zuJvb36oed2FyNu4YjZmgvPog&s=10",
+    "name1": "Goteborg",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrhAsQ_H37vM_SaP5gj94Ek3biVtOsWvYZtjaKJJtjUg&s",
+    "name2": "AIK Fotboll",
+    "champ": "Football. Suède. Allsvenskan",
+    "heure": "12H00",
+    "date": "05/07/2026",
     "pro": "Total: (+2.5)"
   },
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dynamo_logo.svg/langfr-250px-Dynamo_logo.svg.png",
-    "name1": "Dynamo Kyiv",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNxgUAx2qrHBTqubqMMr70sWeJbYg-TYxdtg&s",
-    "name2": "MSK Zilina",
-    "champ": "Football. Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "24/06/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Kalmar_FF_%28logo%29.svg/1280px-Kalmar_FF_%28logo%29.svg.png",
+    "name1": "Kalmar",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3SACsvmUUUN4yXaCQ3Wtqxqi4Yk8ZicREWIyA4U1s3g&s=10",
+    "name2": "Orgryte",
+    "champ": "Football. Suède. Allsvenskan",
+    "heure": "12H00",
+    "date": "05/07/2026",
+    "pro": "Total: (+2.5)"
+  },  
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Escudo_del_Club_Social_y_Deportivo_Madryn.svg/1280px-Escudo_del_Club_Social_y_Deportivo_Madryn.svg.png",
+    "name1": "Deportivo Madryn",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/6/68/Escudo_Colon_Con_Estrella.png",
+    "name2": "Club Atletico Colon",
+    "champ": "Football. Argentine. Primera B Nacional",
+    "heure": "18H00",
+    "date": "05/07/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Estudiantes_BA_escudo.png",
+    "name1": "Estudiantes de Buenos Aires",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcKxPP2dQ9UAyhXuYGYBQnYJVFzkTr2Vnidml_oK6D3g&s",
+    "name2": "Racing De Cordoba",
+    "champ": "Football. Argentine. Primera B Nacional",
+    "heure": "18H00",
+    "date": "05/07/2026",
     "pro": "1X2: V1"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKOeLQ5F-BufGZ7u3lIdUprmpWFINNosxMuw&s",
-    "name1": "CS Universitatea Craiova",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/a9/Sabah_FC_%28Azerbaijan%29.png",
-    "name2": "Sabah Baku",
-    "champ": "Football. Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "24/06/2026",
-    "pro": "1X2: V1"
-  }
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRLpwujjmRWH1qPQ9Erk-GSzb3_lAhybRGnGrPwWIyw&s",
+    "name1": "Club Atletico Patronato",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fiSqPsJDu51rh_Cn2qvQqTNc_ayQE0nKlHHn-JGrAA&s=10",
+    "name2": "Club Atlético San Martin de Tucuman",
+    "champ": "Football. Argentine. Primera B Nacional",
+    "heure": "18H30",
+    "date": "05/07/2026",
+    "pro": "1X"
+   },  
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSobcuvovXJxpU9LqEGPnYNPVKqBVaswwz2__kdq-gN6w&s=10",
+    "name1": "Ferro Carril Oeste",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLO2DI2hEBTVWfkgoIMais3Ld4Lol33iBKu15NAxpg5g&s=10",
+    "name2": "Club Atlético San Telmo",
+    "champ": "Football. Argentine. Primera B Nacional",
+    "heure": "18H30",
+    "date": "05/07/2026",
+    "pro": "V1 Et TP (1.5)- OUI"
 ]
  
 
