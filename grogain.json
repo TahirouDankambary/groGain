@@ -1,94 +1,94 @@
 
  [
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwpmfSeeyIfT5yvUARnRJCqh_3Tz99GGV3pxX2YMJIdA&s=10",
-    "name1": "Rapid Vienne",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQvKbZ0CDordxJ5zMGghhQJliUXIgvnqwgd9P2E7HB3A&s=10",
-    "name2": "Rapid Bucuresti",
-    "champ": "Football. Matchs amicaux ds clubs",
-    "heure": "15H15",
-    "date": "05/07/2026",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlwDrsBcJ76CC0n18b78lR70rx0mrbWMwah6suGn4q4g&s=10",
+    "name1": "Sharmrock Rovers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Floriana_FC.svg/langfr-250px-Floriana_FC.svg.png",
+    "name2": "Floriana",
+    "champ": "Football. Ligue des Champions de l'UEFA",
+    "heure": "19H00",
+    "date": "14/07/2026",
+    "pro": "V1 Et TP (2.5)- NON"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtA7xoLVay48x9LjfGAdzRT__-61ZDEszNHdMd4C4WJw&s=10",
-    "name1": "Mura",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/2b/ND_Beltinci.png",
-    "name2": "ND Beltinci",
-    "champ": "Football. Matchs amicaux ds clubs",
-    "heure": "16H00",
-    "date": "05/07/2026",
-    "pro": "Total: (+2.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2d/SP_La_Fiorita_logo.png/250px-SP_La_Fiorita_logo.png",
+    "name1": "S.P.La Fiorita",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTlpza1PA71fwq0bqD3_jmlsXZErflcgxVxfLjA-tenQ&s=10",
+    "name2": "UNA Strassen",
+    "champ": "Football. Ligue Conférence de l'UEFA",
+    "heure": "19H00",
+    "date": "14/07/2026",
+    "pro": "1X2: V2"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE2JUxju9xtAMhTAQUEKz8OjS4Vm9umDHn8-tzLBT8vg&s=10",
-    "name1": "Olimpija Ljubljana",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ451d4sBRJBEAovWzOdzWF4XAFB8bzGdrsHQzJr9U-g&s=10",
-    "name2": "Rudes",
-    "champ": "Football. Matchs amicaux ds clubs",
-    "heure": "16H00",
-    "date": "05/07/2026",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Ckg2sGt1OVml05wSgqebgTnTk1ORfLN9sOFDesOclQ&s",
+    "name1": "Annan Athletic",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQus15_osLLJo1PERBHLRgWGcaWDJrZtToCXX6bMHO1rg&s=10",
+    "name2": "Dundee",
+    "champ": "Football. Coupe de la Ligue écossaise",
+    "heure": "18H45",
+    "date": "14/07/2026",
+    "pro": "V2 Et TP (2.5)- NON"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQ2taJBNwdxjVqM6S4zuJvb36oed2FyNu4YjZmgvPog&s=10",
-    "name1": "Goteborg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrhAsQ_H37vM_SaP5gj94Ek3biVtOsWvYZtjaKJJtjUg&s",
-    "name2": "AIK Fotboll",
-    "champ": "Football. Suède. Allsvenskan",
-    "heure": "12H00",
-    "date": "05/07/2026",
-    "pro": "Total: (+2.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/b0/Brora_Rangers_Logo.png",
+    "name1": "Brora Rangers FC",
+    "photo2": "https://icon2.cleanpng.com/20181025/pfb/kisspng-aberdeen-f-c-portable-network-graphics-football-c-aberdeen-logo-png-transparent-svg-vector-freeb-5bd1896c8e5cc8.9915624315404588605831.jpg",
+    "name2": "Aberdeen FC",
+    "champ": "Football. Coupe de la Ligue écossaise",
+    "heure": "18H45",
+    "date": "14/07/2026",
+    "pro": "V2 Et TP (2.5)- NON"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Kalmar_FF_%28logo%29.svg/1280px-Kalmar_FF_%28logo%29.svg.png",
-    "name1": "Kalmar",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3SACsvmUUUN4yXaCQ3Wtqxqi4Yk8ZicREWIyA4U1s3g&s=10",
-    "name2": "Orgryte",
-    "champ": "Football. Suède. Allsvenskan",
-    "heure": "12H00",
-    "date": "05/07/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYca82cxJ6_BeMLJNMkk1_nWtB6r6OJDaTGvXR9qpCg&s",
+    "name1": "Dunfermline Athletic",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzLkvJK2ZuEr34IUw1BHLQEW0K1Zg4ODLIvWCSw0Zhw&s=10",
+    "name2": "Dumbarton",
+    "champ": "Football. Coupe de la Ligue écossaise",
+    "heure": "18H45",
+    "date": "14/07/2026",
+    "pro": "V1 Et TP (2.5)- NON"
+  },  
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-vuERkiDRKYZ62_nBgtDoc2e7qGtpt2BgMEkNJKcuQ&s",
+    "name1": "East Fife",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Greenock_Morton_FC.svg/1280px-Logo_Greenock_Morton_FC.svg.png",
+    "name2": "Greenock Morton",
+    "champ": "Football. Coupe de la Ligue écossaise",
+    "heure": "18H45",
+    "date": "14/07/2026",
+    "pro": "Deux équipe vont marquer: OUI"
+  },
+  {
+    "photo1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_WBrTjRmaiz1nVqUOVpIGKPtEUzNRf6GXjfr_GzyvIg&s",
+    "name1": "Kelty Hearts",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c1/Logo_Queen%27s_Park_FC.svg/langfr-250px-Logo_Queen%27s_Park_FC.svg.png",
+    "name2": "Queen's Park",
+    "champ": "Football. Coupe de la Ligue écossaise",
+    "heure": "18H45",
+    "date": "14/07/2026",
     "pro": "Total: (+2.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Escudo_del_Club_Social_y_Deportivo_Madryn.svg/1280px-Escudo_del_Club_Social_y_Deportivo_Madryn.svg.png",
-    "name1": "Deportivo Madryn",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/6/68/Escudo_Colon_Con_Estrella.png",
-    "name2": "Club Atletico Colon",
-    "champ": "Football. Argentine. Primera B Nacional",
-    "heure": "18H00",
-    "date": "05/07/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Estudiantes_BA_escudo.png",
-    "name1": "Estudiantes de Buenos Aires",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcKxPP2dQ9UAyhXuYGYBQnYJVFzkTr2Vnidml_oK6D3g&s",
-    "name2": "Racing De Cordoba",
-    "champ": "Football. Argentine. Primera B Nacional",
-    "heure": "18H00",
-    "date": "05/07/2026",
-    "pro": "1X2: V1"
-  },  
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRLpwujjmRWH1qPQ9Erk-GSzb3_lAhybRGnGrPwWIyw&s",
-    "name1": "Club Atletico Patronato",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fiSqPsJDu51rh_Cn2qvQqTNc_ayQE0nKlHHn-JGrAA&s=10",
-    "name2": "Club Atlético San Martin de Tucuman",
-    "champ": "Football. Argentine. Primera B Nacional",
-    "heure": "18H30",
-    "date": "05/07/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/08/Logo_du_Kilmarnock_FC_2023.svg/langfr-250px-Logo_du_Kilmarnock_FC_2023.svg.png",
+    "name1": "Kilmarnock",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQntfa_3GqCQTZOkf_bmGUbYJd9NtD6Pqh9TaMHUch_-Q&s",
+    "name2": "Raith Rovers",
+    "champ": "Football. Coupe de la Ligue écossaise",
+    "heure": "18H45",
+    "date": "14/07/2026",
+    "pro": "Deux équipes vont marquer: OUI"
    },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSobcuvovXJxpU9LqEGPnYNPVKqBVaswwz2__kdq-gN6w&s=10",
-    "name1": "Ferro Carril Oeste",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLO2DI2hEBTVWfkgoIMais3Ld4Lol33iBKu15NAxpg5g&s=10",
-    "name2": "Club Atlético San Telmo",
-    "champ": "Football. Argentine. Primera B Nacional",
-    "heure": "18H30",
-    "date": "05/07/2026",
-    "pro": "V1 Et TP (1.5)- OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNJv0oKZvryQ4XhJ5uZgIUiNmXYGo9EY-PNVM2coyShg&s",
+    "name1": "Clyde Football Club",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWA1yzN39gCBZ-SHfEfOOIVQ-ZDEiEm2Xl-PzAF-keiA&s=10",
+    "name2": "Airdrieonians",
+    "champ": "Football. Coupe de la Ligue écossaise",
+    "heure": "18H45",
+    "date": "14/07/2026",
+    "pro": "V2 Et TP (1.5)- OUI"
     }
 ]
  
