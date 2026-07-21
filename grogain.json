@@ -1,94 +1,94 @@
 
  [
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlwDrsBcJ76CC0n18b78lR70rx0mrbWMwah6suGn4q4g&s=10",
-    "name1": "Sharmrock Rovers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Floriana_FC.svg/langfr-250px-Floriana_FC.svg.png",
-    "name2": "Floriana",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8F29y0Pm6MImOzUAhMqBSkdJVU7rC7Kt3M3lKocnFGw&s=10",
+    "name1": "Ki Klaksvik",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_%C5%BDalgiris_Kaunas.svg/1280px-Logo_%C5%BDalgiris_Kaunas.svg.png",
+    "name2": "Zalgiris Kaunas",
     "champ": "Football. Ligue des Champions de l'UEFA",
+    "heure": "18H45",
+    "date": "21/07/2026",
+    "pro": "V1 Et TP (1.5)- OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Vikingur.svg/1280px-Vikingur.svg.png",
+    "name1": "Vikingur Reykjavik",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c0/Hapoel_Beer_Sheva_FC.png",
+    "name2": "Hapoel Beer-Sheva",
+    "champ": "Football. Ligue des champions de l'UEFA",
     "heure": "19H00",
-    "date": "14/07/2026",
-    "pro": "V1 Et TP (2.5)- NON"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2d/SP_La_Fiorita_logo.png/250px-SP_La_Fiorita_logo.png",
-    "name1": "S.P.La Fiorita",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTlpza1PA71fwq0bqD3_jmlsXZErflcgxVxfLjA-tenQ&s=10",
-    "name2": "UNA Strassen",
-    "champ": "Football. Ligue Conférence de l'UEFA",
-    "heure": "19H00",
-    "date": "14/07/2026",
-    "pro": "1X2: V2"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Ckg2sGt1OVml05wSgqebgTnTk1ORfLN9sOFDesOclQ&s",
-    "name1": "Annan Athletic",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQus15_osLLJo1PERBHLRgWGcaWDJrZtToCXX6bMHO1rg&s=10",
-    "name2": "Dundee",
-    "champ": "Football. Coupe de la Ligue écossaise",
-    "heure": "18H45",
-    "date": "14/07/2026",
-    "pro": "V2 Et TP (2.5)- NON"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/b0/Brora_Rangers_Logo.png",
-    "name1": "Brora Rangers FC",
-    "photo2": "https://icon2.cleanpng.com/20181025/pfb/kisspng-aberdeen-f-c-portable-network-graphics-football-c-aberdeen-logo-png-transparent-svg-vector-freeb-5bd1896c8e5cc8.9915624315404588605831.jpg",
-    "name2": "Aberdeen FC",
-    "champ": "Football. Coupe de la Ligue écossaise",
-    "heure": "18H45",
-    "date": "14/07/2026",
-    "pro": "V2 Et TP (2.5)- NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYca82cxJ6_BeMLJNMkk1_nWtB6r6OJDaTGvXR9qpCg&s",
-    "name1": "Dunfermline Athletic",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzLkvJK2ZuEr34IUw1BHLQEW0K1Zg4ODLIvWCSw0Zhw&s=10",
-    "name2": "Dumbarton",
-    "champ": "Football. Coupe de la Ligue écossaise",
-    "heure": "18H45",
-    "date": "14/07/2026",
-    "pro": "V1 Et TP (2.5)- NON"
-  },  
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-vuERkiDRKYZ62_nBgtDoc2e7qGtpt2BgMEkNJKcuQ&s",
-    "name1": "East Fife",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Greenock_Morton_FC.svg/1280px-Logo_Greenock_Morton_FC.svg.png",
-    "name2": "Greenock Morton",
-    "champ": "Football. Coupe de la Ligue écossaise",
-    "heure": "18H45",
-    "date": "14/07/2026",
-    "pro": "Deux équipe vont marquer: OUI"
-  },
-  {
-    "photo1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_WBrTjRmaiz1nVqUOVpIGKPtEUzNRf6GXjfr_GzyvIg&s",
-    "name1": "Kelty Hearts",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c1/Logo_Queen%27s_Park_FC.svg/langfr-250px-Logo_Queen%27s_Park_FC.svg.png",
-    "name2": "Queen's Park",
-    "champ": "Football. Coupe de la Ligue écossaise",
-    "heure": "18H45",
-    "date": "14/07/2026",
+    "date": "21/07/2026",
     "pro": "Total: (+2.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Larne_FC_%28logo%29.svg/1280px-Larne_FC_%28logo%29.svg.png",
+    "name1": "Larne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Logo_%C3%89toile_rouge_de_Belgrade_2024.svg/langfr-250px-Logo_%C3%89toile_rouge_de_Belgrade_2024.svg.png",
+    "name2": "Crvena Zvezda",
+    "champ": "Football. Ligue des champions de l'UEFA",
+    "heure": "19H00",
+    "date": "21/07/2026",
+    "pro": "V2 Et TP (2.5)- OUI"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQ2taJBNwdxjVqM6S4zuJvb36oed2FyNu4YjZmgvPog&s=10",
+    "name1": "Goteborg",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcVNpPIwHZ1mdyQhKFQPns6Nq8YOArBf8Gl2mGehJFA&s",
+    "name2": "Levadia",
+    "champ": "Football. Coupe de la Conférence de l'UEFA",
+    "heure": "17H00",
+    "date": "21/07/2026",
+    "pro": "V1 Et TP (2.5)- OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvrs622cktm1NgaBxnep2kZrsNkl_pvqzxgH2lehpapw&s",
+    "name1": "Floriana",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQtW3iEfhGEmxkPAwSuy3JRiGOoWWUAeKqO1OvBCsUQ&s=10",
+    "name2": "KF Drita",
+    "champ": "Football. Coupe de la Conférence de l'UEFA",
+    "heure": "17H30",
+    "date": "21/07/2026",
+    "pro": "Deux équipes vont marquer: OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/08/Logo_du_Kilmarnock_FC_2023.svg/langfr-250px-Logo_du_Kilmarnock_FC_2023.svg.png",
-    "name1": "Kilmarnock",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQntfa_3GqCQTZOkf_bmGUbYJd9NtD6Pqh9TaMHUch_-Q&s",
-    "name2": "Raith Rovers",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0MGDnNrUzhMGAoY7lfN9TXJGrAfUFMJAws-Jzwxwa1Q&s=10",
+    "name1": "Atert Bissen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_ETO_FC_Gy%C5%91r_2025.svg/1280px-Logo_ETO_FC_Gy%C5%91r_2025.svg.png",
+    "name2": "Gyor",
+    "champ": "Football. Coupe de la Conférence de l'UEFA",
+    "heure": "18H15",
+    "date": "21/07/2026",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "photo1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0xxWMrWAE_mZXqHUCTENH9HU3nFATZFgQ6GBhJdiOsA&s=10",
+    "name1": "Alloa Athletic",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnsWogdMTuzM-ceFfM2NnNXAR1W2tbF1SS5AqpCfGyA&s=10",
+    "name2": "Falkirk",
     "champ": "Football. Coupe de la Ligue écossaise",
     "heure": "18H45",
-    "date": "14/07/2026",
-    "pro": "Deux équipes vont marquer: OUI"
+    "date": "21/07/2026",
+    "pro": "1X2: V1"
+  },  
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP4iKOtcvhOr3pDTdMRq-rwVTrzPlEgdsZn6w8APR6Hw&s=10",
+    "name1": "Arbroath FC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c9/Montrose_FC_%28logo%29.png",
+    "name2": "Montrose",
+    "champ": "Football. Coupe de la Ligue écossaise",
+    "heure": "18H45",
+    "date": "21/07/2026",
+    "pro": "1X2: V1"
    },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNJv0oKZvryQ4XhJ5uZgIUiNmXYGo9EY-PNVM2coyShg&s",
-    "name1": "Clyde Football Club",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWA1yzN39gCBZ-SHfEfOOIVQ-ZDEiEm2Xl-PzAF-keiA&s=10",
-    "name2": "Airdrieonians",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxdOWd_UgLaTRoyQScsrGynsbtXJsJPMg_sqekGCgUA&s",
+    "name1": "Dundee United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/ru/3/39/FC_Spartans_logo.png",
+    "name2": "Spartans",
     "champ": "Football. Coupe de la Ligue écossaise",
     "heure": "18H45",
-    "date": "14/07/2026",
-    "pro": "V2 Et TP (1.5)- OUI"
+    "date": "21/07/2026",
+    "pro": "V1 Et TP (2.5)- OUI"
     }
 ]
  
