@@ -1,94 +1,94 @@
 
  [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/langfr-250px-Logo_ATM_2024.svg.png",
-    "name1": "Atlético de Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Logo_Getafe_CF_2011.svg/1280px-Logo_Getafe_CF_2011.svg.png",
-    "name2": "Getafe",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/8/86/BG_Pathum_United_F.C._logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "BG Pathum United",
+    "photo2": "https://banner2.cleanpng.com/20180802/ehg/-5b7397a3d9d774.18027853153430211589237770.jpg",
+    "name2": "Aston Villa",
     "champ": "Football. Matchs amicaux des clubs",
-    "heure": "15H30",
-    "date": "29/07/2026",
+    "heure": "12H30",
+    "date": "04/08/2026",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN-QNkxO5JrwMfyYgCTVvFCRH7WiDLwnvgzXLe0770VQ&s=10",
+    "name1": "Strasbourg",
+    "photo2": "https://images.sports.gracenote.com/images/lib/basic/sport/football/club/logo/300/4252.png",
+    "name2": "Elversberg",
+    "champ": "Football. Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "04/08/2026",
+    "pro": "Total: (+2.5)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmkrWUHfIJik3HC71VQOnae253jWIDCIdCf6r4XxZExA&s",
+    "name1": "Alessandria Calcio 1912",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReljcwzgWkxRYgkj--8_-IJGj6CGXSORpLEhYLPemmWA&s=10",
+    "name2": "Juventus (23)",
+    "champ": "Football. Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "04/08/2026",
+    "pro": "V2 ET TP (2.5)- OUI"
+  },
+    {
+    "photo1": "https://tmssl.akamaized.net//images/wappen/head/10314.png?lm=1708627488",
+    "name1": "Karlovac",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDMLGWUgo6d_2NOhq2CQYzNoDpzyW15uYt0rBX5Vhflg&s=10",
+    "name2": "Orijent",
+    "champ": "Football. Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "04/08/2026",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnezEPjgmjasLKKG8JZELNZ2kU8Ci9MECvC6k7kR4llQ&s",
+    "name1": "Al Nassr",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdCC2BoZWbkkTf9jW2lwwCqd62ULZMcXr9kBz4JWVEQA&s=10",
+    "name2": "UD Almeria",
+    "champ": "Football. Matchs amicaux des clubs",
+    "heure": "17H00",
+    "date": "04/08/2026",
+    "pro": "Deux équipes gagne: OUI"
+  },  
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUGF4Jw5gd-bpUK5VncFY4S0ieodhg3qQJydnLedyfdw&s=10",
+    "name1": "Club Deportivo Leganés",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Qma6LsGu1NgbrFB13yyNdbQ7VseWsCmDF9ZK1gu5Eg&s=10",
+    "name2": "AIRayyan",
+    "champ": "Football. Matchs amicaux des clubs",
+    "heure": "17H00",
+    "date": "04/08/2026",
     "pro": "1X2: V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq89VjwlpMdEzdEleWsltF_ME-sTqXtdWro16N1uqk7w&s",
-    "name1": "A.S.Gubbio 1910",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/79/S.C._Trestina_A.S.D.png",
-    "name2": "ASD Sporting Trestina",
-    "champ": "Football. Matchs amicaux des clubs",
-    "heure": "15H30",
-    "date": "29/07/2026",
-    "pro": "V1 ET TP (1.5) - OUI"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReHTMoIhxHdDULF7QrR7i2Q1a9C_1Dc9oUI5KHECfCvw&s=10",
-    "name1": "Grosseto",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZGhzUPOYFKSNXqwDNsemp8dPPqnadHJ6uGUXbtBZGkg&s=10",
-    "name2": "A.S.D San Donato Tavarnelle",
-    "champ": "Football. Matchs amicaux des clubs",
-    "heure": "15H30",
-    "date": "29/07/2026",
-    "pro": "Total: (+2.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_TSG_1899_Hoffenheim_2025.svg/1280px-Logo_TSG_1899_Hoffenheim_2025.svg.png",
-    "name1": "TSG 1899 Hoffenheim",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/1280px-Holstein_Kiel_Logo.svg.png",
-    "name2": "Holstein Kiel",
-    "champ": "Football. Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "29/07/2026",
-    "pro": "V1 Et TP (2.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPfhQ0vqfdnet83b4vIbcJoMsqFO4OUcbcn6jUhV9_pg&s=10",
-    "name1": "Gérone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/CD_Castell%C3%B3n_-_Logo.svg/langfr-250px-CD_Castell%C3%B3n_-_Logo.svg.png",
-    "name2": "Castellon",
-    "champ": "Football. Matchs amicaux des clubs",
-    "heure": "16H30",
-    "date": "29/07/2026",
-    "pro": "1X"
-  },  
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDMLGWUgo6d_2NOhq2CQYzNoDpzyW15uYt0rBX5Vhflg&s=10",
-    "name1": "Orijent",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSksVTxNX4VjS-WBX4JwRUZyukDEhaJ1v9kosj_3GuACg&s=10",
-    "name2": "NK Grobnican",
-    "champ": "Football. Matchs amicaux des clubs",
-    "heure": "16H30",
-    "date": "29/07/2026",
-    "pro": "V1 Et TP (2.5) - OUI"
-  },
-  {
-    "photo1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXjHxGhcoxXDFynCiov1LH7rUDikjjqRlBWbmdM9avjw&s",
-    "name1": "Racing de Santandar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Athleticbilbao8_old.gif/120px-Athleticbilbao8_old.gif",
-    "name2": "Athletic Bilbao",
-    "champ": "Football. Matchs amicaux des clubs",
-    "heure": "17H30",
-    "date": "29/07/2026",
-    "pro": "Total: (+2.5)"
-  },  
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_Real_Valladolid_CF_-_2022.svg/1280px-Logo_Real_Valladolid_CF_-_2022.svg.png",
-    "name1": "Real Valladolid",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdK9No5_WjrIZPBRSuKVnA9cvKz0QgWjoXjUJAbCVAqQ&s=10",
-    "name2": "Coria",
+    "photo1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEZhGPbe7G0fv-89Ole7pmuWfv4TJqIEeXWclSWvwnkA&s",
+    "name1": "Huesca",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5XYNRVrB_NaxlnDV-UJnikyssPeyFVvnoteotvYnzTQ&s",
+    "name2": "UD Logrones",
     "champ": "Football. Matchs amicaux des clubs",
     "heure": "17H00",
-    "date": "29/07/2026",
-    "pro": "V1 ET TP (1.5) - OUI"
+    "date": "04/08/2026",
+    "pro": "V1 Et TP (1.5)- OUI"
+  },  
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTLM8PMgVs3VIOymm8iTUbFoTf5ujXQ7AqntGERneIGQ&s",
+    "name1": "SD Amorebieta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/Arenas_Club_de_Getxo.svg/1280px-Arenas_Club_de_Getxo.svg.png",
+    "name2": "Arenas Club de Getxo",
+    "champ": "Football. Matchs amicaux des clubs",
+    "heure": "17H00",
+    "date": "04/08/2026",
+    "pro": "2X"
    },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/KAS_Eupen_%28logo%29.svg/1280px-KAS_Eupen_%28logo%29.svg.png",
-    "name1": "KAS Eupen",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUB6vj4OGnhWTpNzT5b8qCWM4HK_3X17u1DgIJHPpsiA&s=10",
-    "name2": "Aywaille",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR310vtP0iwgW48EbutswejPSlxYpGtsLmUrJhjEQ-lS6gFA33qH1qoquGW&s=10",
+    "name1": "KFC Verbroedering Geel",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Sporting_hasselt_crest.svg/1280px-Sporting_hasselt_crest.svg.png",
+    "name2": "Koninklijke Sporting Hasselt",
     "champ": "Football. Matchs amicaux des clubs",
     "heure": "17H00",
-    "date": "29/07/2026",
-    "pro": "Total: (+3.5)"
+    "date": "04/08/2026",
+    "pro": "1X2: V2"
     }
 ]
  
