@@ -1,94 +1,94 @@
 
  [
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxgSmKRNBuW0dCz8wEDIDGFpvNWQ37Citwkv_JVWJ6Og&s",
-    "name1": "West Ham United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/5b/Charlton_Athletic.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Charlton Athletic",
-    "champ": "Football. Angleterre. Championship",
-    "heure": "14H00",
-    "date": "22/08/2026",
-    "pro": "V1 ET TP (1.5)- OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYoQqRStfyiQdk7dgXXtwVwRer56DA20otIWIc-ZJyvA&s=10",
+    "name1": "AS Monaco",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/ae/Logo_Gornik_Zabrze.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Gornik Zabrze",
+    "champ": "Football. Ligue Conférence de l'UEFA",
+    "heure": "16H45",
+    "date": "27/08/2026",
+    "pro": "V1 ET TP (2.5)- OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/57/Logo_Derby_County_2012.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Derby County",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Cardiff_City_FC_2015.svg/1280px-Logo_Cardiff_City_FC_2015.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Cardiff City",
-    "champ": "Football. Angleterre. Championship",
-    "heure": "14H00",
-    "date": "22/08/2026",
-    "pro": "1X2: V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/35/Fribourg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Fribourg",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJpHIAe0vOANdXNXt1PU6AtWYQq5yFinCRb1LDf1111g&s=10",
+    "name2": "Mortherwell FC",
+    "champ": "Football. Ligue Conférence de l'UEFA",
+    "heure": "16H45",
+    "date": "27/08/2026",
+    "pro": "V1 ET TP (2.5)- OUI"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwu4F6Q3QxK_4CYkIEMqnolsmcOvdg1AbZtENS5uqGUQ&s=10",
-    "name1": "Queens Park Rangers",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNJH3m3sC_-mPIQy7xidTS6XZgOpWGJcPDluCRk76WjA&s=10",
-    "name2": "Bolton Wanderers",
-    "champ": "Football. Angleterre. Championship",
-    "heure": "14H00",
-    "date": "22/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiP_hj_NaApFwwlUfCx_CAdH2eL-0eUqTnsrIHXmt-dA&s=10",
+    "name1": "Brann",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/92/PAOK_FC_logo.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "P.A.O.K.",
+    "champ": "Football. Ligue Conférence de l'UEFA",
+    "heure": "17H00",
+    "date": "27/08/2026",
     "pro": "Deux équipes vont gagner: OUI"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvY6LB1yeXX8W4I2AC3bdaadTHtiIhfhQo6IAUkIRzCA&s=10",
-    "name1": "Preston North End",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi0nDSlULUScG2wkadYKCPreUGcs3fHB4rechVO910BQ&s",
-    "name2": "Wolverhampton Wanderes",
-    "champ": "Football. Angleterre. Championship",
-    "heure": "14H00",
-    "date": "22/08/2026",
-    "pro": "V2 Et TP (1.5)- OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/40/Hradec-Kralove.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Hradec Kralove",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrVK_JFePgGYcJb1luH7omOgrjLsbMe4t6LNlcyIw6ew&s=10",
+    "name2": "Panathinaikos",
+    "champ": "Football. Ligue Conférence de l'UEFA",
+    "heure": "17H00",
+    "date": "27/08/2026",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bf/Logo_Wrexham_AFC.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Wrexham",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEIUknWljnYY_32b3HQeZkN3vDH31ki7xbSEdAnexdVQ&s=10",
-    "name2": "Watford",
-    "champ": "Football. Angleterre. Championship",
-    "heure": "14H00",
-    "date": "22/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f0/Inter_Club_Escaldes.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Inter Club d'Escaldes",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQtW3iEfhGEmxkPAwSuy3JRiGOoWWUAeKqO1OvBCsUQ&s=10",
+    "name2": "KF Drita",
+    "champ": "Football. Ligue Conférence de l'UEFA",
+    "heure": "17H00",
+    "date": "2/08/2026",
+    "pro": "Total: (2.5)"
+  },  
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5wqtLFlW1RFpujoXhmgqUJVCmTW-qdzztXsMWaw5rw&s=10",
+    "name1": "Pafos",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4yPoL3yJKoRuQZ1vcnFWNAoBLn4Aj8Krir1fiflwoDA&s",
+    "name2": "Dinomo City",
+    "champ": "Football. Ligue Conférence de l'UEFA",
+    "heure": "17H00",
+    "date": "27/08/2026",
+    "pro": "V1 ET TP (1.5)- OUI"
+  },
+  {
+    "photo1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqF5Hkd1-dZ7YvIf0dzhtbJ-ec-9UX6T5ERbgXuEJgYA&s",
+    "name1": "Rakow Czestochowa",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzuBPSpFE4MZqld5dbCBje-1EdjK5ZjPNXmRyE-Vuvcg&s",
+    "name2": "Hajduk Spilt",
+    "champ": "Football. Ligue Conférence de l'UEFA",
+    "heure": "17H00",
+    "date": "27/08/2026",
     "pro": "Deux équipes vont marquer: OUI"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-hARkRuFtjbCHX8E5tPeomAMdKxxb2lJEcaq-KnB0-g&s=10",
-    "name1": "Southampton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Logo_Stoke_City_FC_-_2026.svg/1280px-Logo_Stoke_City_FC_-_2026.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Stoke City",
-    "champ": "Football. Angleterre. Championship",
-    "heure": "14H00",
-    "date": "22/08/2026",
-    "pro": "1X2: V1"
-  },
-  {
-    "photo1":"https://logosandtypes.com/wp-content/uploads/2023/01/Swansea-City-AFC.png",
-    "name1": "Swansea City",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_DkIITF5v-g3q5RHUfDsXUGJAr2J_s7W2IPQmqTzVw&s=10",
-    "name2": "Sheffield United",
-    "champ": "Football. Angleterre. Championship",
-    "heure": "14H00",
-    "date": "22/08/2026",
-    "pro": "Total: (+2.5)"
-  },  
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjn0yLa9cqoL0FBOrSANQ16x7E-M2ukJX4mFJT4YKPAQ&s=10",
-    "name1": "Parma",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTma0MG92eeY47YoeAvmA2a872Th6lEt22Zr5de7KB3XA&s=10",
-    "name2": "Cagliari Calcio",
-    "champ": "Football. Italie. Séries A",
-    "heure": "18H45",
-    "date": "22/08/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/e/e9/Riga_Football_Club.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Riga FC",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8F29y0Pm6MImOzUAhMqBSkdJVU7rC7Kt3M3lKocnFGw&s=10",
+    "name2": "Ki Klaksvik",
+    "champ": "Football. Ligue Conférence de l'UEFA",
+    "heure": "18H30",
+    "date": "27/08/2026",
+    "pro": "1X2 (2UP): Match nul"
    },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXdito781J0qD9wy0L9qPGKU_Ni8CIuCUwtcLTZKGe2w&s=10",
-    "name1": "Fortuna Sittard",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPvfRSasUcr9YKFcyk_Md9fRNVeyWa5ypCRdWle6rfA&s=10",
-    "name2": "AZ Alkmaar",
-    "champ": "Football. Pays-Bas. Eredivisie",
-    "heure": "14H30",
-    "date": " 22/08/2026",
-    "pro": "1X2: V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/1280px-Logo_Brighton_%26_Hove_Albion_2024.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Brighton Hove Albion",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ-kUyWDyjcqoFLjvngWr-pIh76JFmxE-Ua04g9_Y3Mni3Dsp6a-uNsU5d&s=10",
+    "name2": "Tromso",
+    "champ": "Football. Ligue Conférence de l'UEFA",
+    "heure": "18H30",
+    "date": " 27/08/2026",
+    "pro": "V1 Et TP (1.5)- OUI"
     }
 ]
  
