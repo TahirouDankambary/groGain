@@ -1,94 +1,85 @@
 
  [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Ukraine",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp6hux--wQgD93alLdw_yUDe0nL_XcgmqYfy-_SYFoqQ&s=10",
-    "name2": "Hongrie",
-    "champ": "Football. Ligue des nations de l'UEFA",
-    "heure": "18H45",
-    "date": "05/10/2026",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsi2PnDzeLsHumVIn30iwesjCYqst319PTzlnfihYASw&s",
+    "name1": "Augsbourg",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/960px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20241016210123",
+    "name2": "Bayern Munich",
+    "champ": "Football. Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "10/10/2026",
+    "pro": "V2 ET TP (3.5)- NON"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu5c0NKwsKcTNil3qeykrGMg3-qrSvygsOdwo8FEXtcQ&s",
-    "name1": "Liechtenstein",
-    "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/1280px-Flag_of_Gibraltar.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Gibraltar",
-    "champ": "Football. Matchs amicaux. Equipes nationales",
-    "heure": "18H45",
-    "date": "05/10/2026",
-    "pro": "Double chance: 2X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFT--pFsBu6au98aEfhonlesdVwA006iKMUMNljG1zQ&s",
+    "name1": "FSV Mayence 05",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNYYvDvf2UGtXSY1LQlLo1JMNJ8Nw7nBQhwjzsAcDn6w&s",
+    "name2": "Bayer 04 Leverkusen",
+    "champ": "Football. Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "10/10/2026",
+    "pro": "Total: (+2.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Benin (U23)",
-    "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Tunisia_logo.svg/3840px-Tunisia_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Tunisie (23)",
-    "champ": "Football. Coupe d'Afrique des nations U23",
-    "heure": "16H00",
-    "date": "05/10/2026",
-    "pro": "1X2: V2"
+    "photo1": "https://up.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Pederborn 07",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1280px-VfB_Stuttgart_1893_Logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "VFB Stuffgart",
+    "champ": "Football. Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "10/10/2026",
+    "pro": "V2 ET TP (1.5)- NON"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTADcdfOlUZeXR55HInG9Y2sDGwOIpRwQq7VjBwjHA2EA&s=10",
-    "name1": "Cordoue",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIB5mqnGOM8_uMhPcPPm0abLGdBmmUUIi3BqvTimiTQA&s=10",
-    "name2": "Ténérife",
-    "champ": "Football. Espagne. Division 2",
-    "heure": "18H30",
-    "date": "05/10/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRatU1m54m0hCLeLFcLWuieYMToNM5nwtnIsR_zUPaY5A&s=10",
+    "name1": "TSG 1899 Hoffenheim",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/1/1a/Logo_Hambourg_SV.svg/1280px-Logo_Hambourg_SV.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Hambourg",
+    "champ": "Football. Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "10/10/2026",
     "pro": "Deux équipes vont marquer: OUI"
   },  
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Escudo_del_Club_Deportivo_Riestra.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Deportivo Riesta",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE51WBQDByQNDjRQHJHfMkn1b9fX8E1Y0aZEBNsGNNKA&s=10",
-    "name2": "Central Cordoba de Santiago",
-    "champ": "Football. Championnat d'Arfentine. Primera Division",
-    "heure": "19H45",
-    "date": "05/10/2026",
-    "pro": "Total: (+2)"
+    "name1": "Deportivo Alaves",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI99DD0PE90jCVaCUE03kgv3ASsXNm9dOHuhoeEczKqw&s=10",
+    "name2": "Atlético de Madrid",
+    "champ": "Football. Espagne. La Liga",
+    "heure": "14H15",
+    "date": "10/10/2026",
+    "pro": "1X2: V2"
   },
   {
-    "photo1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAuyA-llVcJoQ2TnyEbD0zpzEc8wHPFvZos0nv1WgKoQ&s=10",
-    "name1": "Trostianets",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxdWFKagt_lvrFgIgQbKRFJe-MhIfo9dQxq99XkoueuQ&s",
-    "name2": "Tchernigov",
-    "champ": "Football. Coupe d'Ukraine",
-    "heure": "08H00",
-    "date": "06/10/2026",
-    "pro": "1X2: X"
+    "photo1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Mb7o5uu6kphzBaGlPMYHSWOtML2btlqFY7TdOXkfTg&s=10",
+    "name1": "SSC Naples",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS999ET9NWeEWQlV1a9W2I6afMxkdZQ88UOZw8L5xuxiw&s",
+    "name2": "Frosinone Calcio",
+    "champ": "Football. Italie. Série A",
+    "heure": "18H45",
+    "date": "10/10/2026",
+    "pro": "V1 ET TP (1.5)- NON"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/34/FK_TSC_Ba%C4%8Dka_Topola.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "TSC Backa Topola",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/6/6c/RFK_Grafi%C4%8Dar_Beograd_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Graficar Beograd",
-    "champ": "Football. Serbie. 1ère Ligue",
-    "heure": "16H00",
-    "date": "05/10/2026",
-    "pro": "V1 ET TP (1.5)- OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/21/Krylia_sovetov_logo.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Krylia Sovetov",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQx84S40t8kb3O6t2x896FnJXtSc2Y5RbbDt0s2AZjLg&s=10",
+    "name2": "Spartak Moscou",
+    "champ": "Football. Championnat de Russie. Première Ligue",
+    "heure": "14H30",
+    "date": "10/10/2026",
+    "pro": "Deux équipes vont marquer: OUI"
    },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT0Iz91gdng7WvyJUNyTun_5QXxOFOF0a_AOFWWiaYCg&s=10",
-    "name1": "Bogota",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQF2KPWdT_ZHPRIubWYRR5C1ez7dtBN8vr5R8RjifYFw&s=10",
-    "name2": "Envigado",
-    "champ": "Football. Colombie. Torneo Aguila",
-    "heure": "22H00",
-    "date": "05/10/2026",
-    "pro": "Total: (+1.5)"
-   },  
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5hE5Or9GFWJUAcLYjjJtgjAfMpJjLFcYtno9WBI2V2w&shttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5hE5Or9GFWJUAcLYjjJtgjAfMpJjLFcYtno9WBI2V2w&s",
-    "name1": "Carshalton Athletic",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqCbj67R9ryP2zdAH6WQIJGaxDdarDrAGTah_08xe3eA&s",
-    "name2": "Eastbourne Borough",
-    "champ": "Football. Angleterre. Ligue de l'Isthmian",
-    "heure": "18H45",
-    "date": "05/10/2026",
-    "pro": "Deux equipes vont marquer: OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdhytRHcmQKgWtOuxQDH1nj1aTG9sfTflYZdkQZmuXsA&s",
+    "name1": "Krasnodar",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwbSSDD486RuuQ6gcq_d_WYPnhEKYdsbNHKf6fiMQ5QQ&s",
+    "name2": "Zénith Saint-Pétersbourg",
+    "champ": "Football. Championnat de Russie. Première Ligue",
+    "heure": "16H30",
+    "date": "10/10/2026",
+    "pro": "Deux équipes vont marquer: OUI"
+   
     }
 ]
  
