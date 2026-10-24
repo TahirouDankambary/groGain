@@ -79,7 +79,26 @@
     "heure": "13H30",
     "date": "24/10/2026",
     "pro": "Deux équipes vont marquer: OUI"
-   
+   },  
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE5GfiRYDTH7m731WflvSxIgPk8smJoHOr54qZPjPoLQ&s=10",
+    "name1": "Borusia Dortmund",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc8HwyxhS2jGqg_5QZLj3xm12HSO3vIC36zWQdd1BPig&s",
+    "name2": "Eintracht Frankfurt",
+    "champ": "Football. Allemagne. Bundesliga",
+    "heure": "16H30",
+    "date": "24/10/2026",
+    "pro": "Deux équipes vont marquer: OUI"
+   },  
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7x7kVjw4PqHPDoM9R8lzScg0pJrDUz-4C5be3ADjrNw&s=10",
+    "name1": "Cagliari Calcio",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkdM3I0U3sRUjqZSPonfrgd_1VDufI-OeJq1kwJ_lL6Q&s=10",
+    "name2": "Bologna 1909",
+    "champ": "Football. Italie. Série A",
+    "heure": "13H00",
+    "date": "24/10/2026",
+    "pro": "Double chance: 2X"
     }
 ]
  
